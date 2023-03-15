@@ -149,7 +149,7 @@ public class MonthlyWorkingStatistics {
         
          // Create inventory vehicle list
          ArrayList<Vehicle> inventoryList = new ArrayList<>();  // example of Identity 
-         int num_car_inventory = 6;  
+         int num_car_inventory = 10;  
        InitializecarInventory(inventoryList, num_car_inventory);
        
       

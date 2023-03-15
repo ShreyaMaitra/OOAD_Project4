@@ -8,6 +8,11 @@
 
 ![Untitled Diagram-Page-1 drawio (3)](https://user-images.githubusercontent.com/111729856/225429424-d0b41c90-f2a4-47db-adce-9a1c6b219492.png)
 
+[image 2 2 2 2.pdf](https://github.com/shaily29-eng/OOAD_Project4/files/10984449/image.2.2.2.2.pdf)
+
+
+
+
 # UML Changes :
 We are considering Staff and Vehicle as the abstract class . In project 2 we had not considered Vehicle also as an abstract class.
 getVehicleAddon() is the method used for Decorator Pattern. writeToFile() method is used for the Observer pattern. doWash() method is used for the Strategy Pattern.

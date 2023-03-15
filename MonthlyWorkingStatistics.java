@@ -175,6 +175,8 @@ public class MonthlyWorkingStatistics {
        // Tracker tracker = new Tracker ();
         //Get the only object available
         System.out.println("vehicle size " + v.size());
+
+        // getting tracker instance
         Tracker tracker = Tracker.getInstance();
         
         for (Vehicle c1 : v) {
@@ -188,7 +190,7 @@ public class MonthlyWorkingStatistics {
            
           //Get the only object available
           
-
+          // getting tracker instance
           Logger logger = Logger.getInstance();
            
 
@@ -362,9 +364,7 @@ catch (NumberFormatException e) {
             
             operatingBudget= FNCD_North.ending(operatingBudget, s ,allStaffs, writer,logger, tracker);
             operatingBudget= FNCD_South.ending(operatingBudget, s ,allStaffs, writer,logger, tracker);
-         /*    System.out.println("size of inventory day end"+ inventoryList.size());
-
-           System.out.println("size of staff after" + s.size());
+            
 
 
             writer.write("\n");
@@ -391,7 +391,7 @@ catch (NumberFormatException e) {
              System.out.println(car.getVehicleName()+"\t         "+car.getVehicleCost()+"\t           "+car.getVehicleSP()    +"\t            "  +car.VehicleCondition()+"\t              "+car.VehicleCleanliness() + "\t             "+car.getVehicleStatus()+"\t             "+car.getRaceCount());
             
             } 
- */
+ 
           /*  for (Staff pp : s) {
             logger.setDescription(pp.getStaffname()+"  "+pp.getStaffType() + "  "+pp.getStaffHealthStatus());
             }*/

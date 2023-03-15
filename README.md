@@ -15,7 +15,7 @@ getVehicleAddon() is the method used for Decorator Pattern. writeToFile() method
 # Assumptions : 
 
 We are starting the simulation considering that there are three types of staffs of each type Intern, Salerperson, Mechanic, Driver. 
-Also we are considering that the inventory has 10 Vehicles of each type. The store vehicle stock has 4 of each types of Cars i.e. Regular Cars, Pick Up Cars, Performance Cars, Electric Cars, Monster Trucks, Motorcycles. Also we are considering that one sales person can sell multiple cars. Also it is likely that one of each type of Mechanic, Salesperson, Intern can quit and Injured Drivers leave. Buyer can have only one addon.
+Also we are considering that the inventory has 10 Vehicles of each type. The three new subclasses of vehicles introduced are ElectricTrucks, Formula1Cars and RacingMotorcycles.The store vehicle stock also has 6 of each types of Cars i.e. Regular Cars, Pick Up Cars, Performance Cars, Electric Cars, Monster Trucks, Motorcycles. Also we are considering that one sales person can sell multiple cars. Also it is likely that one of each type of Mechanic, Salesperson, Intern can quit and Injured Drivers leave. Buyer can have only one addon. Now we have FNCD at two locations. We are assuming that both the locations share same store vehicle inventory and staff. The day starts with FNCD north opening followed by FNCD South opening. In this way all the other operations take place. Coming to the human interaction 
 
 <h2>References:</h2>
 

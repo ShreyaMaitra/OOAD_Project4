@@ -20,27 +20,35 @@ Also we are considering that the inventory has 10 Vehicles of each type. The thr
 <h2>Iteractive user actions from day 31 :</h2>
 
 Below is the option to choose which FNCD location to purchase from:
+
 ![s1](https://user-images.githubusercontent.com/111729856/225433882-c387ba93-a7e5-4af6-89fc-c4d1e9a5eac8.png)
 
 Below is the output when the user wants to know the salesperson's name:
+
 ![s2](https://user-images.githubusercontent.com/111729856/225433897-f97c1bd5-fa86-4836-b127-b9862e9aa403.png)
 
 Below is the output when the user wants to change the salesperson's :
+
 ![s3](https://user-images.githubusercontent.com/111729856/225433916-03a78a1c-a849-469d-9ead-fc5082041440.png)
 
 Below is the output when the user wants to know the current date time :
+
 ![s4](https://user-images.githubusercontent.com/111729856/225433934-ac94ea90-f8d3-4e89-a2b0-ba0562604e63.png)
 
 Below is the output when the user wants to see the list of the cars to buy from:
+
 ![s5](https://user-images.githubusercontent.com/111729856/225433959-50fa53f7-8a6b-4337-9932-9cab631df3fd.png)
 
 Below is the output with the car details which the user chooses:
+
 ![s6png](https://user-images.githubusercontent.com/111729856/225433987-67a8fb6d-5f84-4cf5-be23-aba75f628111.png)
 
 Below is the output for buying any addons with the car:
+
 ![s7](https://user-images.githubusercontent.com/111729856/225433999-cd3404ad-f0b2-4fe9-851d-f2097792f27b.png)
 
 Below is the final output on successful purchase:
+
 ![s8](https://user-images.githubusercontent.com/111729856/225434015-91141410-d654-491a-a7d1-4bd983b99ab3.png)
 
 

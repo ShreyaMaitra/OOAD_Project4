@@ -221,7 +221,9 @@ public class MonthlyWorkingStatistics {
             writer.write ("*** FNCD Day "+ i+" "+dayWeekText+ " ***\n")  ;    
             System.out.println("*** FNCD Day "+ i+" "+dayWeekText+ " *** ");   
             logger.setDescription("*** FNCD Day "+ i+" "+dayWeekText+ " *** ")  ;  
+            // start with opening in FNCD North branch
             operatingBudget= FNCD_North.opening(operatingBudget, s,allStaffs, v, inventoryList, writer,logger, tracker);
+             // followed by opening in FNCD South branch
             operatingBudget= FNCD_South.opening(operatingBudget, s,allStaffs, v, inventoryList, writer,logger, tracker);
             FNCD_North.washing(s, v, writer, logger);
             FNCD_South.washing(s, v, writer, logger);
@@ -268,16 +270,17 @@ public class MonthlyWorkingStatistics {
                 }
                     else { System.out.println("Sorry wrong input for location, please try again");}
                 }
+                // to know current salesperson name
                 if (choice == 2)
                 {
                     interaction.executeCommand(ssc);      
                 }
-                
+                // to know current date time
                 if (choice == 3)
                 {
                     interaction.executeCommand(new SelectTimeCommand()); 
                 }
-                
+                // if want to change salesperson
                 if (choice == 4)
                 {
                     flag = "Y";
@@ -285,6 +288,8 @@ public class MonthlyWorkingStatistics {
                     
                 }
                flag1 = flag;
+
+               // check store invntory
                 if (choice == 5)
                 {
                     interaction.executeCommand(new ShowStoreInventoryCommand(v));
@@ -292,6 +297,7 @@ public class MonthlyWorkingStatistics {
                     interaction.executeCommand(new ShowCarDetailsCommand(v.get(choice2-1)));
                 }
                 
+                //purchase car with addons
                 if (choice == 6)
                 {    
                     if (flag1.equals("Y"))
@@ -312,8 +318,8 @@ public class MonthlyWorkingStatistics {
                     break;
                 }
                 }     
-
-
+                
+                // for wrong input during user interaction
                 if ( choice!=1 && choice!=2 && choice!=3 && choice!=4 && choice!=5 && choice!=6)
                 {
                     System.out.println("Sorry wrong input , please try again ");

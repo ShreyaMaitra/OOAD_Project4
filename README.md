@@ -19,7 +19,7 @@ Also we are considering that the inventory has 10 Vehicles of each type. The thr
 
 <h2>Output of userinterface for buying a car</h2>
 
-# Iteractive user actions from day 31 :
+Iteractive user actions from day 31 :
 
 Below is the option to choose which FNCD location to purchase from:
 

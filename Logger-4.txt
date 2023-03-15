@@ -1,0 +1,42 @@
+Simulation day 4:
+*** FNCD Day 4 Saturday *** 
+
+ Opening North Branch....
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PerformanceCar for $39559.0 Cost
+Purchased Like New , Dirty PickUpCar for $34704.0 Cost
+
+ Opening South Branch....
+
+
+Intern Olivia VV Taylor washed PerformanceCar RAM_XS_-2080367552 using Wash method Chemical and made it Clean (earned $200)
+Intern Ava AA Jones washed ElectricCars Maruti_XS_1084906753 using Wash method Detailed and made it Dirty (earned $125)
+
+
+Intern Olivia VV Taylor washed Motorcycles Tesla_AC_207456426 using Wash method Chemical and made it Clean (earned $25)
+Intern Ava AA Jones washed RacingMotorcycles RAM_Sports_983494645 using Wash method Detailed and made it Dirty (earned $25)
+Intern Amelia VV Johnson washed RegularCar Porsche_Outback_-2043469875 using Wash method Elbow Grease and made it Dirty (earned $100)
+
+
+Mechanic Emma JJ Jones repaired Broken Lamborghini_Sumo_-1090349381 and made it Used (earned $350.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Maruti_Outback_-1189934202 and made it Like New (earned $325.0)
+Mechanic Evelyn AA Wilson repaired Broken Jaguar_EXL_-4462156 and made it Used (earned $350.0)
+Mechanic Mia FF Miller repaired Broken Black STallion Electric_-60681275 and made it Used (earned $305.0)
+
+
+Salesperson Charlotte GG Jones sold Used PerformanceCar Ferrari_Sports_-589383747 to Buyer with Addon: Satellite Radio (Price Increased by $3177.76) for $66732.96 (earned $ 3000.0 bonus)
+
+
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+
+
+

@@ -1,0 +1,32 @@
+
+ Tracker : Day 28
+Opening North Branch budget $10000.0
+Opening South Branch budget $10000.0
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD : $103991.04
+Total money  earned by FNCD Staff : $819.0
+Total money  earned by FNCD Staff : $0.0
+
+ Tracker : Day 29
+Opening North Branch budget $113172.04
+Opening South Branch budget $89505.04
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $3181.0
+Total money  earned by FNCD Staff : $0.0
+
+ Tracker : Day 30
+Opening North Branch budget $86324.04
+Opening South Branch budget $86324.04
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD : $0.0
+Total money  earned by FNCD Staff : $968.0
+Total money  earned by FNCD Staff : $0.0
+
+ Tracker : Day 31
+Opening North Branch budget $85356.04
+Opening South Branch budget $85356.04
+Total money  earned by FNCD : $42917.7
+Total money  earned by FNCD Staff : $1453.0
+Total money  earned by FNCD Staff : $0.0
+

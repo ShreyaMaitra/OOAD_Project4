@@ -1,0 +1,44 @@
+Simulation day 22:
+*** FNCD Day 22 Wednesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte GG Jones
+Purchased Like New , Dirty RegularCar for $10425.0 Cost
+Purchased Used , Dirty PickUpCar for $11404.0 Cost
+
+ Opening South Branch....
+
+
+Intern Mia EE Williams washed PickUpCar Bentley_AC_-533430949 using Wash method Chemical and made it Clean (earned $300)
+
+
+Intern Mia EE Williams washed RegularCar Lamborghini_LUX_-550087448 using Wash method Chemical and made it Clean (earned $100)
+Intern Emma NN Miller washed ElectricTrucks Jurassic Attack Electric_1873711052 using Wash method Elbow Grease and made it Dirty (earned $115)
+
+
+Mechanic Evelyn LL Jones repaired Broken Bentley_AC_-533430949 and made it Used (earned $350.0)
+Mechanic Harper GG Johnson repaired Broken Bugatti_Outback_-231368480 and made it Like New (earned $250.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken Bentley_AC_-533430949 and made it Like New (earned $350.0)
+
+
+
+
+Salesperson Evelyn QQ Smith sold Like New PerformanceCar Bugatti_Outback_-231368480 to Buyer with Addon: None (Price Increased by $0.0) for $86545.0 (earned $ 3000.0 bonus)
+Racing North Branch............
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 15
+Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 1
+Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 3
+Racing South Branch............
+
+ Ending North Branch ....
+Salesperson Evelyn QQ Smith has quit the FNCD
+
+
+Mia EE Williams has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+
+
+

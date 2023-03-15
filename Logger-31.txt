@@ -1,0 +1,41 @@
+Simulation day 31:
+*** FNCD Day 31 Friday *** 
+
+ Opening North Branch....
+Hired Intern Olivia GG Brown
+Hired Intern Isabella GG Miller
+
+ Opening South Branch....
+
+
+Intern Charlotte DD Miller washed MonsterTrucks Gunslinger_-3988518 using Wash method Chemical and made it Clean (earned $115)
+
+
+Intern Charlotte DD Miller washed PickUpCar Ford_XS_1178347968 using Wash method Chemical and made it Sparkling (earned $300)
+Intern Emma II Smith washed ElectricCars Porsche_XS_-1892316345 using Wash method Detailed and made it Dirty (earned $125)
+Intern Olivia EE Williams washed ElectricTrucks Monster Mutt Dalmatian Electric_791694067 using Wash method Elbow Grease and made it Dirty (earned $115)
+
+
+Mechanic Isabella UU Smith repaired Broken Tesla_Sedan_793946014 and made it Like New (earned $150.0)
+Mechanic Charlotte AA Jones repaired Broken Maruti_SUV_-2051390781 and made it Like New (earned $235.0)
+
+
+Mechanic Isabella UU Smith repaired Broken BMW_Sports_-950561725 and made it Like New (earned $350.0)
+Mechanic Charlotte OO Davis repaired Broken Bugatti_LUX_-210883444 and made it Like New (earned $235.0)
+
+Selling by user interface in North branch .....
+Salesperson Sophia DD Wilson sold Porsche_Forester_230452769 to user interface buyer with Addon: Undercoating (Price Increased by $2043.7) for $42917.7(earned bonus $1335.0 bonus)
+
+ Ending North Branch ....
+Salesperson Sophia DD Wilson has quit the FNCD
+Mechanic Isabella UU Smith has quit the FNCD
+
+
+Charlotte DD Miller has shifted to the position of a Mechanic
+Emma II Smith has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+Intern Olivia EE Williams has quit the FNCD
+
+
+

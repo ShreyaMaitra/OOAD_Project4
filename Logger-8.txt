@@ -1,0 +1,48 @@
+Simulation day 8:
+*** FNCD Day 8 Wednesday *** 
+
+ Opening North Branch....
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty PerformanceCar for $22947.0 Cost
+
+ Opening South Branch....
+
+
+Intern Charlotte NN Smith washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed MonsterTrucks Avenger_1615693781 using Wash method Chemical and made it Clean (earned $115)
+Intern Amelia HH Miller washed Motorcycles i20_Sedan_-782454023 using Wash method Detailed and made it Clean (earned $25)
+
+
+Intern Charlotte NN Smith washed PerformanceCar Bentley_Sumo_-1509938691 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Intern Amelia HH Miller washed PickUpCar Audi_Edge_-1721225253 using Wash method Detailed and made it Clean (earned $300)
+
+
+Mechanic Emma JJ Jones repaired Broken Swamp Thing_907039809 and made it Used (earned $305.0)
+Mechanic Evelyn AA Wilson repaired Broken BMW_Outback_-1637533590 and made it Used (earned $250.0)
+Mechanic Mia FF Miller repaired Broken Subaru_Edge_1714493021 and made it Like New (earned $150.0)
+
+
+Mechanic Emma JJ Jones repaired Broken BMW_Outback_-1637533590 and made it Like New (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Broken Bentley_Sumo_-1509938691 and made it Like New (earned $250.0)
+Mechanic Mia FF Miller repaired Broken i20_DX_442533135 and made it Like New (earned $235.0)
+
+
+
+
+Salesperson Charlotte GG Jones sold Used PickUpCar Bentley_SUV_1339686979 to Buyer with Addon: None (Price Increased by $0.0) for $100842.0 (earned $ 2000.0 bonus)
+Racing North Branch............
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 11
+Driver Emma AA Davis driving ElectricTrucks Bulldozer Electric_228314303 secured position 20
+Driver Charlotte HH Brown driving MonsterTrucks Sudden Impact_460525476 secured position 15
+Racing South Branch............
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+Intern Charlotte NN Smith has quit the FNCD
+
+
+

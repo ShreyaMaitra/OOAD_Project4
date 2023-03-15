@@ -1,0 +1,43 @@
+Simulation day 13:
+*** FNCD Day 13 Monday *** 
+
+ Opening North Branch....
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PerformanceCar for $30300.0 Cost
+
+ Opening South Branch....
+
+
+Intern Evelyn LL Jones washed PerformanceCar Bugatti_XL_-1797292601 using Wash method Elbow Grease and made it Dirty (earned $200)
+Intern Ava UU Wilson washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+
+
+Intern Evelyn LL Jones washed Formula1Cars Porsche_SUV_118124736 using Wash method Elbow Grease and made it Clean (earned $300)
+Intern Ava UU Wilson washed RegularCar i10_Sports_1164065337 using Wash method Chemical and made it Clean (earned $100)
+Intern Olivia AA Brown washed RacingMotorcycles i20_DX_442533135 using Wash method Elbow Grease and made it Dirty (earned $25)
+
+
+Mechanic Evelyn AA Wilson repaired Broken i20_Sedan_-782454023 and made it Used (earned $235.0)
+Mechanic Emma LL Taylor repaired Broken Bulldozer Electric_228314303 and made it Used (earned $305.0)
+
+
+Mechanic Emma JJ Jones repaired Broken RAM_DX_-1713685779 and made it Like New (earned $235.0)
+Mechanic Evelyn AA Wilson repaired Broken i20_Sedan_-782454023 and made it Like New (earned $235.0)
+Mechanic Emma LL Taylor repaired Broken i20_XS_-1503354739 and made it Used (earned $250.0)
+
+
+
+
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_SUV_-208074390 to Buyer with Addon: None (Price Increased by $0.0) for $76266.0 (earned $ 2000.0 bonus)
+
+ Ending North Branch ....
+Driver Emma AA Davis has left the FNCD
+Mechanic Evelyn AA Wilson has quit the FNCD
+
+
+Evelyn LL Jones has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+
+
+

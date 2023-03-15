@@ -1,0 +1,44 @@
+Simulation day 25:
+*** FNCD Day 25 Saturday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $17856.0 Cost
+Purchased Like New , Clean PerformanceCar for $35009.0 Cost
+Purchased Like New , Clean PerformanceCar for $21809.0 Cost
+Purchased Like New , Dirty PickUpCar for $15515.0 Cost
+
+ Opening South Branch....
+
+
+Intern Charlotte BB Taylor washed MonsterTrucks Jurassic Attack_-912951034 using Wash method Elbow Grease and made it Clean (earned $115)
+
+
+Intern Evelyn AA Taylor washed ElectricCars Maruti_XS_1084906753 using Wash method Detailed and made it Dirty (earned $125)
+Intern Isabella CC Jones washed RacingMotorcycles Lamborghini_Sports_-242333661 using Wash method Elbow Grease and made it Dirty (earned $25)
+
+
+Mechanic Evelyn GG Davis repaired Broken Porsche_Racer_792124260 and made it Used (earned $150.0)
+
+
+Mechanic Harper GG Johnson repaired Broken Porsche_Racer_792124260 and made it Like New (earned $150.0)
+
+
+
+
+
+ Ending North Branch ....
+Mechanic Emma NN Miller has quit the FNCD
+
+
+Evelyn AA Taylor has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+Mechanic Harper GG Johnson has quit the FNCD
+Salesperson Amelia VV Williams has quit the FNCD
+
+
+Isabella CC Jones has shifted to the position of a Mechanic
+Charlotte BB Taylor has shifted to the position of a Salesperson
+

@@ -1,0 +1,45 @@
+Simulation day 7:
+*** FNCD Day 7 Tuesday *** 
+
+ Opening North Branch....
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Like New , Clean PerformanceCar for $23660.0 Cost
+Purchased Broken , Dirty PickUpCar for $31990.0 Cost
+
+ Opening South Branch....
+
+
+Intern Charlotte NN Smith washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Harper UU Brown washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Chemical and made it Clean (earned $115)
+Intern Mia LL Davis washed Formula1Cars Porsche_SUV_118124736 using Wash method Chemical and made it Clean (earned $300)
+
+
+Intern Charlotte NN Smith washed PickUpCar Bentley_SUV_-208074390 using Wash method Chemical and made it Clean (earned $300)
+Intern Harper UU Brown washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed Motorcycles Porsche_Racer_-483158345 using Wash method Chemical and made it Clean (earned $25)
+
+
+Mechanic Emma JJ Jones repaired Broken Jurassic Attack_-912951034 and made it Used (earned $305.0)
+Mechanic Evelyn AA Wilson repaired Broken Maruti_XS_1084906753 and made it Like New (earned $325.0)
+Mechanic Mia FF Miller repaired Broken Bentley_SUV_1339686979 and made it Used (earned $350.0)
+
+
+Mechanic Evelyn AA Wilson repaired Broken Bear Foot USA_976757668 and made it Used (earned $305.0)
+Mechanic Mia FF Miller repaired Broken Jurassic Attack_-912951034 and made it Like New (earned $305.0)
+
+
+
+
+Salesperson Ava AA Jones sold Like New PerformanceCar i20_XL_-1986599504 to Buyer with Addon: Satellite Radio (Price Increased by $3176.9) for $66714.9 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Intern Harper UU Brown has quit the FNCD
+
+
+
+ Ending South Branch ....
+
+
+

@@ -1,0 +1,43 @@
+Simulation day 11:
+*** FNCD Day 11 Saturday *** 
+
+ Opening North Branch....
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty RegularCar for $15872.0 Cost
+Purchased Broken , Sparkling PerformanceCar for $27518.0 Cost
+
+ Opening South Branch....
+
+
+Intern Emma LL Taylor washed ElectricCars RAM_EXL_1175901394 using Wash method Chemical and made it Clean (earned $125)
+Intern Evelyn LL Jones washed MonsterTrucks Bear Foot USA_976757668 using Wash method Elbow Grease and made it Dirty (earned $115)
+Intern Ava UU Wilson washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+
+
+Intern Emma LL Taylor washed PickUpCar RAM_DX_529565182 using Wash method Chemical and made it Clean (earned $300)
+Intern Evelyn LL Jones washed PerformanceCar Bugatti_XL_-1797292601 using Wash method Elbow Grease and made it Dirty (earned $200)
+Intern Ava UU Wilson washed ElectricCars Maruti_Outback_-1189934202 using Wash method Chemical and made it Clean (earned $125)
+
+
+Mechanic Emma JJ Jones repaired Broken i10_LUX_251512159 and made it Used (earned $150.0)
+Mechanic Evelyn AA Wilson repaired Broken Ferrari_LUX_-1119202680 and made it Like New (earned $235.0)
+Mechanic Amelia HH Miller repaired Broken Bentley_Sports_-1771708419 and made it Used (earned $250.0)
+
+
+Mechanic Evelyn AA Wilson repaired Broken Jaguar_EXL_-4462156 and made it Like New (earned $350.0)
+
+
+Salesperson Charlotte GG Jones sold Used PerformanceCar Bentley_Sports_651722896 to Buyer with Addon: Extended Warranty (Price Increased by $19264.2) for $115585.2 (earned $ 3000.0 bonus)
+
+
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+Mechanic Amelia HH Miller has quit the FNCD
+
+
+Emma LL Taylor has shifted to the position of a Mechanic
+

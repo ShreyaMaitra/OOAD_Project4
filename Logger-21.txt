@@ -1,0 +1,45 @@
+Simulation day 21:
+*** FNCD Day 21 Tuesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte GG Jones
+Purchased Used , Dirty PerformanceCar for $36938.0 Cost
+
+ Opening South Branch....
+
+
+Intern Mia TT Brown washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia EE Williams washed Motorcycles Jaguar_Forester_1246109696 using Wash method Chemical and made it Clean (earned $25)
+Intern Emma NN Miller washed Motorcycles Mercedes_Sumo_1783815883 using Wash method Elbow Grease and made it Dirty (earned $25)
+
+
+Intern Mia TT Brown washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Intern Mia EE Williams washed ElectricTrucks The Felon Electric_-492312269 using Wash method Chemical and made it Clean (earned $115)
+Intern Emma NN Miller washed ElectricCars RAM_EXL_1175901394 using Wash method Elbow Grease and made it Clean (earned $125)
+
+
+Mechanic Evelyn LL Jones repaired Broken War Wizard Electric_1932707742 and made it Used (earned $305.0)
+Mechanic Harper GG Johnson repaired Broken War Wizard Electric_1932707742 and made it Like New (earned $305.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken Porsche_Sedan_217009135 and made it Used (earned $150.0)
+Mechanic Sophia KK Brown repaired Broken Bugatti_Sports_-980730593 and made it Like New (earned $350.0)
+Mechanic Harper GG Johnson repaired Broken Porsche_Sedan_217009135 and made it Like New (earned $150.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PickUpCar i20_AC_-264812866 to Buyer with Addon: Undercoating (Price Increased by $3259.6000000000004) for $68451.6 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar i20_AC_-264812866 to Buyer with Addon: Extended Warranty (Price Increased by $13690.320000000002) for $82141.92000000001 (earned $ 2000.0 bonus)
+
+
+Salesperson Evelyn QQ Smith sold Like New RegularCar Porsche_Sedan_217009135 to Buyer with Addon: Undercoating (Price Increased by $2380.0) for $49980.0 (earned $ 1000.0 bonus)
+
+ Ending North Branch ....
+Mechanic Sophia KK Brown has quit the FNCD
+
+
+Mia TT Brown has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+
+
+

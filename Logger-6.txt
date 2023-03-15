@@ -1,0 +1,45 @@
+Simulation day 6:
+*** FNCD Day 6 Monday *** 
+
+ Opening North Branch....
+Purchased Like New , Dirty PerformanceCar for $23572.0 Cost
+
+ Opening South Branch....
+
+
+Intern Olivia VV Taylor washed ElectricTrucks Bear Foot (2xtreme) Electric_-364684620 using Wash method Chemical and made it Clean (earned $115)
+Intern Ava AA Jones washed ElectricTrucks Jurassic Attack Electric_1873711052 using Wash method Detailed and made it Dirty (earned $115)
+Intern Amelia VV Johnson washed RegularCar Ferrari_AC_-1066366192 using Wash method Elbow Grease and made it Dirty (earned $100)
+
+
+Intern Olivia VV Taylor washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Ava AA Jones washed ElectricCars Subaru_Sports_690361671 using Wash method Detailed and made it Dirty (earned $125)
+Intern Amelia VV Johnson washed PickUpCar Bentley_SUV_-208074390 using Wash method Elbow Grease and made it Dirty (earned $300)
+
+
+Mechanic Evelyn AA Wilson repaired Broken Porsche_SUV_118124736 and made it Like New (earned $350.0)
+Mechanic Mia FF Miller repaired Broken RAM_DX_529565182 and made it Used (earned $350.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Lamborghini_Sumo_-1090349381 and made it Like New (earned $350.0)
+Mechanic Evelyn AA Wilson repaired Broken Mercedes_Sumo_1783815883 and made it Like New (earned $235.0)
+Mechanic Mia FF Miller repaired Broken Black STallion Electric_-60681275 and made it Like New (earned $305.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar BMW_AC_408322390 to Buyer with Addon: Undercoating (Price Increased by $3234.4) for $67922.4 (earned $ 3000.0 bonus)
+
+
+Salesperson Evelyn GG Jones sold Like New PickUpCar i20_LUX_985112313 to Buyer with Addon: None (Price Increased by $0.0) for $78100.0 (earned $ 2000.0 bonus)
+
+ Ending North Branch ....
+Intern Olivia VV Taylor has quit the FNCD
+
+
+
+ Ending South Branch ....
+Salesperson Evelyn GG Jones has quit the FNCD
+Intern Amelia VV Johnson has quit the FNCD
+
+
+Ava AA Jones has shifted to the position of a Salesperson
+

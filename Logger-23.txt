@@ -1,0 +1,39 @@
+Simulation day 23:
+*** FNCD Day 23 Thursday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte GG Jones
+Purchased Used , Clean PerformanceCar for $36942.0 Cost
+
+ Opening South Branch....
+
+
+Intern Emma NN Miller washed PickUpCar i20_Forester_1875075635 using Wash method Elbow Grease and made it Dirty (earned $300)
+Intern Evelyn GG Davis washed Motorcycles Jaguar_Forester_1246109696 using Wash method Elbow Grease and made it Clean (earned $25)
+
+
+
+
+Mechanic Evelyn LL Jones repaired Broken Bentley_XL_1681409564 and made it Like New (earned $250.0)
+
+
+
+
+Salesperson Mia EE Williams sold Like New PickUpCar Bentley_SUV_1829663135 to Buyer with Addon: Satellite Radio (Price Increased by $3202.875) for $67260.375 (earned $ 2000.0 bonus)
+
+
+Salesperson Mia EE Williams sold Like New PerformanceCar Bentley_XL_1681409564 to Buyer with Addon: None (Price Increased by $0.0) for $82475.0 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_XL_1681409564 to Buyer with Addon: None (Price Increased by $0.0) for $82475.0 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+Mechanic Evelyn LL Jones has quit the FNCD
+Salesperson Mia EE Williams has quit the FNCD
+
+
+Emma NN Miller has shifted to the position of a Mechanic
+Amelia VV Williams has shifted to the position of a Salesperson
+

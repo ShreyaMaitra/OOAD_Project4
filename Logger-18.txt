@@ -1,0 +1,48 @@
+Simulation day 18:
+*** FNCD Day 18 Saturday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Like New , Dirty PerformanceCar for $29207.0 Cost
+Purchased Like New , Dirty PerformanceCar for $26402.0 Cost
+Purchased Like New , Dirty PickUpCar for $31493.0 Cost
+
+ Opening South Branch....
+
+
+Intern Mia TT Brown washed ElectricCars RAM_EXL_1175901394 using Wash method Chemical and made it Clean (earned $125)
+
+
+Intern Harper GG Johnson washed RegularCar BMW_XS_1867684943 using Wash method Elbow Grease and made it Dirty (earned $100)
+Intern Mia TT Brown washed ElectricTrucks Black STallion Electric_-60681275 using Wash method Chemical and made it Clean (earned $115)
+
+
+Mechanic Evelyn LL Jones repaired Broken Bugatti_Forester_-2118715318 and made it Used (earned $350.0)
+Mechanic Sophia KK Brown repaired Broken Black STallion Electric_-60681275 and made it Used (earned $305.0)
+Mechanic Olivia CC Wilson repaired Broken Subaru_Sedan_-261899649 and made it Like New (earned $350.0)
+
+
+Mechanic Sophia KK Brown repaired Broken Black STallion Electric_-60681275 and made it Like New (earned $305.0)
+Mechanic Olivia CC Wilson repaired Broken Bentley_SUV_1829663135 and made it Like New (earned $350.0)
+
+
+Salesperson Mia LL Davis sold Like New RegularCar Porsche_XS_1803926392 to Buyer with Addon: None (Price Increased by $0.0) for $38304.0 (earned $ 1000.0 bonus)
+Salesperson Mia LL Davis sold Used PickUpCar Bugatti_Forester_-2118715318 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1623.1200000000001) for $82779.12 (earned $ 2000.0 bonus)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: Extended Warranty (Price Increased by $13504.800000000001) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: None (Price Increased by $0.0) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: None (Price Increased by $0.0) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1620.576) for $82649.376 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+Salesperson Mia LL Davis has quit the FNCD
+
+
+Evelyn QQ Smith has shifted to the position of a Salesperson
+

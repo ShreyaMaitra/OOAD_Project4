@@ -1,0 +1,51 @@
+Simulation day 29:
+*** FNCD Day 29 Wednesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Intern Isabella BB Williams
+Purchased Broken , Dirty PerformanceCar for $34891.0 Cost
+
+ Opening South Branch....
+
+
+Intern Isabella GG Davis washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Chemical and made it Clean (earned $115)
+Intern Evelyn EE Moore washed PerformanceCar Jaguar_Sports_-957703886 using Wash method Chemical and made it Dirty (earned $200)
+
+
+Intern Isabella GG Davis washed MonsterTrucks Avenger_1615693781 using Wash method Chemical and made it Sparkling (earned $115)
+Intern Amelia FF Williams washed Motorcycles RAM_DX_-1713685779 using Wash method Elbow Grease and made it Dirty (earned $25)
+Intern Evelyn EE Moore washed Formula1Cars Porsche_EXL_835435221 using Wash method Chemical and made it Clean (earned $300)
+
+
+Mechanic Evelyn AA Taylor repaired Broken Jaguar_Sports_-957703886 and made it Used (earned $250.0)
+
+
+Mechanic Evelyn GG Davis repaired Broken Jaguar_Sports_-957703886 and made it Like New (earned $250.0)
+
+
+Salesperson Charlotte BB Taylor sold Like New PickUpCar Bugatti_Forester_1964946938 to Buyer with Addon: None (Price Increased by $0.0) for $44126.0 (earned $ 2000.0 bonus)
+Salesperson Charlotte BB Taylor sold Like New PerformanceCar Jaguar_Sports_-957703886 to Buyer with Addon: Extended Warranty (Price Increased by $19567.5) for $117405.0 (earned $ 3000.0 bonus)
+
+
+Salesperson Charlotte BB Taylor sold Like New PerformanceCar Bugatti_XL_-1797292601 to Buyer with Addon: Undercoating (Price Increased by $2744.8) for $57640.8 (earned $ 3000.0 bonus)
+Racing North Branch............
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 10
+Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 12
+Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 15
+Racing South Branch............
+
+ Ending North Branch ....
+Salesperson Sophia NN Brown has quit the FNCD
+
+
+Isabella GG Davis has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+Mechanic Evelyn AA Taylor has quit the FNCD
+Salesperson Isabella GG Davis has quit the FNCD
+
+
+Amelia FF Williams has shifted to the position of a Mechanic
+Evelyn EE Moore has shifted to the position of a Salesperson
+

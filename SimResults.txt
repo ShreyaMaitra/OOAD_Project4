@@ -1,0 +1,664 @@
+*** FNCD Day 1 Wednesday ***
+Opening North Branch....(current budget $10000.0)
+Opening South Branch....(current budget $10000.0)
+Washing North Branch....
+Intern Harper II Brown washed ElectricTrucks Black STallion Electric_-60681275 using Wash method Detailed and made it Dirty (earned $115)
+Washing South Branch....
+Intern Harper II Brown washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Detailed and made it Dirty (earned $115)
+Intern Olivia BB Brown washed RacingMotorcycles Subaru_Sports_-1002082460 using Wash method Elbow Grease and made it Clean (earned $25)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken i20_Hatchback_-21939971 and made it Used (earned $235.0)
+Mechanic Isabella LL Wilson repaired Used Sudden Impact_460525476 and made it Like New (earned $305.0)
+Repairing South Branch....
+Mechanic Emma SS Johnson repaired Broken War Wizard Electric_1932707742 and made it Used (earned $305.0)
+Mechanic Emma JJ Jones repaired Broken RAM_DX_-1713685779 and made it Used (earned $235.0)
+Mechanic Isabella LL Wilson repaired Used Lamborghini_Sports_-242333661 and made it Like New (earned $235.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Total Sales : 0.0 
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks Bulldozer Electric_228314303 secured position 7
+ Driver Emma AA Davis driving MonsterTrucks Sudden Impact_460525476 secured position 13
+ Driver Charlotte HH Brown driving Motorcycles RAM_DX_-1713685779 secured position 2
+ 
+ Racing South Branch............ 
+Mechanic Emma SS Johnson has quit the FNCD
+Salesperson Mia OO Williams has quit the FNCD 
+Total Operating Cost : 7203.0
+Salesperson Olivia BB Brown has quit the FNCD 
+Total Operating Cost : 7203.0
+*** FNCD Day 2 Thursday ***
+Opening North Branch....(current budget $7203.0)
+Hired Intern Charlotte AA Miller
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+Opening South Branch....(current budget $7203.0)
+Washing North Branch....
+Intern Ava MM Moore washed RacingMotorcycles i20_Hatchback_-21939971 using Wash method Elbow Grease and made it Dirty (earned $25)
+Intern Evelyn AA Wilson washed MonsterTrucks El Toro Loco_42202693 using Wash method Detailed and made it Dirty (earned $115)
+Intern Emma JJ Smith washed Formula1Cars Porsche_Sumo_-1321755096 using Wash method Chemical and made it Clean (earned $300)
+Washing South Branch....
+Intern Evelyn AA Wilson washed ElectricCars Subaru_Sports_690361671 using Wash method Detailed and made it Dirty (earned $125)
+Intern Emma JJ Smith washed MonsterTrucks Sudden Impact_460525476 using Wash method Chemical and made it Sparkling (earned $115)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Used RAM_Edge_-797517649 and made it Like New (earned $350.0)
+Mechanic Isabella LL Wilson repaired Used Jurassic Attack Electric_1873711052 and made it Like New (earned $305.0)
+Mechanic Harper II Brown repaired Used Ford_Hatchback_-225206993 and made it Like New (earned $150.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Broken Mercedes_Sumo_1783815883 and made it Used (earned $235.0)
+Mechanic Harper II Brown repaired Used Bear Foot (2xtreme) Electric_-364684620 and made it Like New (earned $305.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_Sports_-2085569223 to Buyer with Addon: None (Price Increased by $0.0) for $76502.0 (earned $ 3000.0 bonus)
+Total Sales : 76502.0 Selling North Branch....
+Salesperson Charlotte AA Miller sold Like New PerformanceCar Porsche_DX_1665717981 to Buyer with Addon: Satellite Radio (Price Increased by $3443.5) for $72313.5 (earned $ 3000.0 bonus)
+Salesperson Evelyn GG Jones sold Like New PerformanceCar Porsche_DX_1665717981 to Buyer with Addon: Extended Warranty (Price Increased by $14462.7) for $86776.2 (earned $ 3000.0 bonus)
+Total Sales : 159089.7 Salesperson Charlotte AA Miller has quit the FNCD 
+Total Operating Cost : 241826.7
+Mechanic Harper II Brown has quit the FNCD
+Total Operating Cost : 241826.7
+*** FNCD Day 3 Friday ***
+Opening North Branch....(current budget $241826.7)
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty PerformanceCar for $24808.0 Cost
+Purchased Used , Dirty PerformanceCar for $27811.0 Cost
+Opening South Branch....(current budget $189207.7)
+Washing North Branch....
+Intern Emma JJ Smith washed Formula1Cars RAM_Hatchback_1816482023 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia FF Miller washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Detailed and made it Dirty (earned $200)
+Washing South Branch....
+Intern Emma JJ Smith washed ElectricCars i10_Forester_1265391541 using Wash method Chemical and made it Clean (earned $125)
+Intern Mia FF Miller washed Motorcycles Tesla_AC_207456426 using Wash method Detailed and made it Dirty (earned $25)
+Intern Emma UU Johnson washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Detailed and made it Clean (earned $115)
+Repairing North Branch....
+Mechanic Evelyn AA Wilson repaired Broken The Felon Electric_-492312269 and made it Used (earned $305.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Broken Maruti_Outback_-1189934202 and made it Used (earned $325.0)
+Mechanic Isabella LL Wilson repaired Broken RAM_Hatchback_1816482023 and made it Used (earned $350.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_Hatchback_-357850701 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1021.52) for $52097.52 (earned $ 3000.0 bonus)
+Total Sales : 52097.52 Selling North Branch....
+Salesperson Ava MM Moore sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: None (Price Increased by $0.0) for $81370.0 (earned $ 2000.0 bonus)
+Salesperson Ava MM Moore sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4068.5) for $85438.5 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4271.925) for $89710.425 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4485.521250000001) for $94195.94625000001 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1883.9189250000002) for $96079.86517500001 (earned $ 2000.0 bonus)
+Total Sales : 446794.736425 Intern Emma JJ Smith has quit the FNCDTotal Operating Cost : 687222.956425
+Mechanic Isabella LL Wilson has quit the FNCD
+Salesperson Ava MM Moore has quit the FNCD 
+Intern Emma UU Johnson has quit the FNCDTotal Operating Cost : 687222.956425
+*** FNCD Day 4 Saturday ***
+Opening North Branch....(current budget $687222.956425)
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PerformanceCar for $39559.0 Cost
+Purchased Like New , Dirty PickUpCar for $34704.0 Cost
+Opening South Branch....(current budget $652518.956425)
+Washing North Branch....
+Intern Olivia VV Taylor washed PerformanceCar RAM_XS_-2080367552 using Wash method Chemical and made it Clean (earned $200)
+Intern Ava AA Jones washed ElectricCars Maruti_XS_1084906753 using Wash method Detailed and made it Dirty (earned $125)
+Washing South Branch....
+Intern Olivia VV Taylor washed Motorcycles Tesla_AC_207456426 using Wash method Chemical and made it Clean (earned $25)
+Intern Ava AA Jones washed RacingMotorcycles RAM_Sports_983494645 using Wash method Detailed and made it Dirty (earned $25)
+Intern Amelia VV Johnson washed RegularCar Porsche_Outback_-2043469875 using Wash method Elbow Grease and made it Dirty (earned $100)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken Lamborghini_Sumo_-1090349381 and made it Used (earned $350.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used Maruti_Outback_-1189934202 and made it Like New (earned $325.0)
+Mechanic Evelyn AA Wilson repaired Broken Jaguar_EXL_-4462156 and made it Used (earned $350.0)
+Mechanic Mia FF Miller repaired Broken Black STallion Electric_-60681275 and made it Used (earned $305.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Used PerformanceCar Ferrari_Sports_-589383747 to Buyer with Addon: Satellite Radio (Price Increased by $3177.76) for $66732.96 (earned $ 3000.0 bonus)
+Total Sales : 66732.96 Selling North Branch....
+Total Sales : 0.0 Total Operating Cost : 718506.916425
+Total Operating Cost : 718506.916425
+*** FNCD only runs for Racing Today *** Day 5 Sunday ***
+....Current budget $718506.916425)
+
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 12
+ Driver Emma AA Davis driving ElectricTrucks Bulldozer Electric_228314303 secured position 1
+ Driver Charlotte HH Brown driving MonsterTrucks Sudden Impact_460525476 secured position 19
+ 
+ Racing South Branch............ 
+*** FNCD Day 6 Monday ***
+Opening North Branch....(current budget $718506.916425)
+Purchased Like New , Dirty PerformanceCar for $23572.0 Cost
+Opening South Branch....(current budget $694934.916425)
+Washing North Branch....
+Intern Olivia VV Taylor washed ElectricTrucks Bear Foot (2xtreme) Electric_-364684620 using Wash method Chemical and made it Clean (earned $115)
+Intern Ava AA Jones washed ElectricTrucks Jurassic Attack Electric_1873711052 using Wash method Detailed and made it Dirty (earned $115)
+Intern Amelia VV Johnson washed RegularCar Ferrari_AC_-1066366192 using Wash method Elbow Grease and made it Dirty (earned $100)
+Washing South Branch....
+Intern Olivia VV Taylor washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Ava AA Jones washed ElectricCars Subaru_Sports_690361671 using Wash method Detailed and made it Dirty (earned $125)
+Intern Amelia VV Johnson washed PickUpCar Bentley_SUV_-208074390 using Wash method Elbow Grease and made it Dirty (earned $300)
+Repairing North Branch....
+Mechanic Evelyn AA Wilson repaired Used Porsche_SUV_118124736 and made it Like New (earned $350.0)
+Mechanic Mia FF Miller repaired Broken RAM_DX_529565182 and made it Used (earned $350.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used Lamborghini_Sumo_-1090349381 and made it Like New (earned $350.0)
+Mechanic Evelyn AA Wilson repaired Used Mercedes_Sumo_1783815883 and made it Like New (earned $235.0)
+Mechanic Mia FF Miller repaired Used Black STallion Electric_-60681275 and made it Like New (earned $305.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PerformanceCar BMW_AC_408322390 to Buyer with Addon: Undercoating (Price Increased by $3234.4) for $67922.4 (earned $ 3000.0 bonus)
+Total Sales : 67922.4 Selling North Branch....
+Salesperson Evelyn GG Jones sold Like New PickUpCar i20_LUX_985112313 to Buyer with Addon: None (Price Increased by $0.0) for $78100.0 (earned $ 2000.0 bonus)
+Total Sales : 78100.0 Intern Olivia VV Taylor has quit the FNCDTotal Operating Cost : 837265.316425
+Salesperson Evelyn GG Jones has quit the FNCD 
+Intern Amelia VV Johnson has quit the FNCDTotal Operating Cost : 837265.316425
+*** FNCD Day 7 Tuesday ***
+Opening North Branch....(current budget $837265.316425)
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Like New , Clean PerformanceCar for $23660.0 Cost
+Purchased Broken , Dirty PickUpCar for $31990.0 Cost
+Opening South Branch....(current budget $805275.316425)
+Washing North Branch....
+Intern Charlotte NN Smith washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Harper UU Brown washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Chemical and made it Clean (earned $115)
+Intern Mia LL Davis washed Formula1Cars Porsche_SUV_118124736 using Wash method Chemical and made it Clean (earned $300)
+Washing South Branch....
+Intern Charlotte NN Smith washed PickUpCar Bentley_SUV_-208074390 using Wash method Chemical and made it Clean (earned $300)
+Intern Harper UU Brown washed PerformanceCar Tesla_Racer_488526359 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed Motorcycles Porsche_Racer_-483158345 using Wash method Chemical and made it Clean (earned $25)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken Jurassic Attack_-912951034 and made it Used (earned $305.0)
+Mechanic Evelyn AA Wilson repaired Used Maruti_XS_1084906753 and made it Like New (earned $325.0)
+Mechanic Mia FF Miller repaired Broken Bentley_SUV_1339686979 and made it Used (earned $350.0)
+Repairing South Branch....
+Mechanic Evelyn AA Wilson repaired Broken Bear Foot USA_976757668 and made it Used (earned $305.0)
+Mechanic Mia FF Miller repaired Used Jurassic Attack_-912951034 and made it Like New (earned $305.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Salesperson Ava AA Jones sold Like New PerformanceCar i20_XL_-1986599504 to Buyer with Addon: Satellite Radio (Price Increased by $3176.9) for $66714.9 (earned $ 3000.0 bonus)
+Total Sales : 66714.9 Intern Harper UU Brown has quit the FNCDTotal Operating Cost : 870737.216425
+Total Operating Cost : 870737.216425
+*** FNCD Day 8 Wednesday ***
+Opening North Branch....(current budget $870737.216425)
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty PerformanceCar for $22947.0 Cost
+Opening South Branch....(current budget $847790.216425)
+Washing North Branch....
+Intern Charlotte NN Smith washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed MonsterTrucks Avenger_1615693781 using Wash method Chemical and made it Clean (earned $115)
+Intern Amelia HH Miller washed Motorcycles i20_Sedan_-782454023 using Wash method Detailed and made it Clean (earned $25)
+Washing South Branch....
+Intern Charlotte NN Smith washed PerformanceCar Bentley_Sumo_-1509938691 using Wash method Chemical and made it Clean (earned $200)
+Intern Mia LL Davis washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Intern Amelia HH Miller washed PickUpCar Audi_Edge_-1721225253 using Wash method Detailed and made it Clean (earned $300)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken Swamp Thing_907039809 and made it Used (earned $305.0)
+Mechanic Evelyn AA Wilson repaired Broken BMW_Outback_-1637533590 and made it Used (earned $250.0)
+Mechanic Mia FF Miller repaired Used Subaru_Edge_1714493021 and made it Like New (earned $150.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used BMW_Outback_-1637533590 and made it Like New (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Used Bentley_Sumo_-1509938691 and made it Like New (earned $250.0)
+Mechanic Mia FF Miller repaired Used i20_DX_442533135 and made it Like New (earned $235.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Salesperson Charlotte GG Jones sold Used PickUpCar Bentley_SUV_1339686979 to Buyer with Addon: None (Price Increased by $0.0) for $100842.0 (earned $ 2000.0 bonus)
+Total Sales : 100842.0 
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 11
+ Driver Emma AA Davis driving ElectricTrucks Bulldozer Electric_228314303 secured position 20
+ Driver Charlotte HH Brown driving MonsterTrucks Sudden Impact_460525476 secured position 15
+ 
+ Racing South Branch............ 
+Total Operating Cost : 945020.216425
+Intern Charlotte NN Smith has quit the FNCDTotal Operating Cost : 945020.216425
+*** FNCD Day 9 Thursday ***
+Opening North Branch....(current budget $945020.216425)
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PickUpCar for $29358.0 Cost
+Opening South Branch....(current budget $915662.216425)
+Washing North Branch....
+Intern Mia LL Davis washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+Intern Amelia HH Miller washed RacingMotorcycles RAM_Sports_983494645 using Wash method Detailed and made it Dirty (earned $25)
+Intern Emma LL Taylor washed ElectricCars Subaru_Sports_690361671 using Wash method Chemical and made it Clean (earned $125)
+Washing South Branch....
+Intern Mia LL Davis washed Motorcycles Mercedes_Sumo_1783815883 using Wash method Chemical and made it Sparkling (earned $25)
+Intern Emma LL Taylor washed Formula1Cars RAM_Hatchback_1816482023 using Wash method Chemical and made it Sparkling (earned $300)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken Bentley_Sports_651722896 and made it Used (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Used War Wizard Electric_1932707742 and made it Like New (earned $305.0)
+Mechanic Mia FF Miller repaired Used i20_Hatchback_-21939971 and made it Like New (earned $235.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used Tesla_Racer_488526359 and made it Like New (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Used Bentley_Forester_1841329514 and made it Like New (earned $350.0)
+Mechanic Mia FF Miller repaired Broken Ferrari_AC_-1066366192 and made it Used (earned $150.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Salesperson Ava AA Jones sold Like New PerformanceCar Tesla_Racer_488526359 to Buyer with Addon: None (Price Increased by $0.0) for $97870.0 (earned $ 3000.0 bonus)
+Total Sales : 97870.0 Salesperson Ava AA Jones has quit the FNCD 
+Total Operating Cost : 1012454.216425
+Total Operating Cost : 1012454.216425
+*** FNCD Day 10 Friday ***
+Opening North Branch....(current budget $1012454.216425)
+Hired Intern Emma AA Davis
+Purchased Like New , Dirty PerformanceCar for $20142.0 Cost
+Opening South Branch....(current budget $992312.216425)
+Washing North Branch....
+Intern Amelia HH Miller washed RegularCar Porsche_Outback_-2043469875 using Wash method Detailed and made it Dirty (earned $100)
+Intern Emma LL Taylor washed ElectricCars Subaru_Sports_690361671 using Wash method Chemical and made it Clean (earned $125)
+Intern Evelyn LL Jones washed RacingMotorcycles RAM_Sports_983494645 using Wash method Elbow Grease and made it Dirty (earned $25)
+Washing South Branch....
+Intern Emma LL Taylor washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken RAM_XS_-2080367552 and made it Used (earned $250.0)
+Mechanic Mia FF Miller repaired Used Swamp Thing_907039809 and made it Like New (earned $305.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Broken Ferrari_LUX_-1119202680 and made it Used (earned $235.0)
+Mechanic Evelyn AA Wilson repaired Used Ferrari_AC_-1066366192 and made it Like New (earned $150.0)
+Mechanic Mia FF Miller repaired Broken Sudden Impact_460525476 and made it Used (earned $305.0)
+Selling North Branch....
+Salesperson Mia LL Davis sold Like New RegularCar Porsche_Outback_-2043469875 to Buyer with Addon: None (Price Increased by $0.0) for $38956.0 (earned $ 1000.0 bonus)
+Total Sales : 38956.0 Selling North Branch....
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: Satellite Radio (Price Increased by $5303.85) for $111380.85 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: None (Price Increased by $0.0) for $111380.85 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: None (Price Increased by $0.0) for $111380.85 (earned $ 3000.0 bonus)
+Total Sales : 334142.55000000005 Mechanic Mia FF Miller has quit the FNCD
+Total Operating Cost : 1364462.766425
+Total Operating Cost : 1364462.766425
+*** FNCD Day 11 Saturday ***
+Opening North Branch....(current budget $1364462.766425)
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty RegularCar for $15872.0 Cost
+Purchased Broken , Sparkling PerformanceCar for $27518.0 Cost
+Opening South Branch....(current budget $1336944.766425)
+Washing North Branch....
+Intern Emma LL Taylor washed ElectricCars RAM_EXL_1175901394 using Wash method Chemical and made it Clean (earned $125)
+Intern Evelyn LL Jones washed MonsterTrucks Bear Foot USA_976757668 using Wash method Elbow Grease and made it Dirty (earned $115)
+Intern Ava UU Wilson washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+Washing South Branch....
+Intern Emma LL Taylor washed PickUpCar RAM_DX_529565182 using Wash method Chemical and made it Clean (earned $300)
+Intern Evelyn LL Jones washed PerformanceCar Bugatti_XL_-1797292601 using Wash method Elbow Grease and made it Dirty (earned $200)
+Intern Ava UU Wilson washed ElectricCars Maruti_Outback_-1189934202 using Wash method Chemical and made it Clean (earned $125)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Broken i10_LUX_251512159 and made it Used (earned $150.0)
+Mechanic Evelyn AA Wilson repaired Used Ferrari_LUX_-1119202680 and made it Like New (earned $235.0)
+Mechanic Amelia HH Miller repaired Broken Bentley_Sports_-1771708419 and made it Used (earned $250.0)
+Repairing South Branch....
+Mechanic Evelyn AA Wilson repaired Used Jaguar_EXL_-4462156 and made it Like New (earned $350.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Used PerformanceCar Bentley_Sports_651722896 to Buyer with Addon: Extended Warranty (Price Increased by $19264.2) for $115585.2 (earned $ 3000.0 bonus)
+Total Sales : 115585.2 Selling North Branch....
+Total Sales : 0.0 Total Operating Cost : 1451235.966425
+Mechanic Amelia HH Miller has quit the FNCD
+Total Operating Cost : 1451235.966425
+*** FNCD only runs for Racing Today *** Day 12 Sunday ***
+....Current budget $1451235.966425)
+
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 3
+ Driver Emma AA Davis driving ElectricTrucks Bulldozer Electric_228314303 secured position 19
+ Driver Charlotte HH Brown driving MonsterTrucks Sudden Impact_460525476 secured position 7
+ 
+ Racing South Branch............ 
+*** FNCD Day 13 Monday ***
+Opening North Branch....(current budget $1451235.966425)
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PerformanceCar for $30300.0 Cost
+Opening South Branch....(current budget $1420935.966425)
+Washing North Branch....
+Intern Evelyn LL Jones washed PerformanceCar Bugatti_XL_-1797292601 using Wash method Elbow Grease and made it Dirty (earned $200)
+Intern Ava UU Wilson washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Washing South Branch....
+Intern Evelyn LL Jones washed Formula1Cars Porsche_SUV_118124736 using Wash method Elbow Grease and made it Clean (earned $300)
+Intern Ava UU Wilson washed RegularCar i10_Sports_1164065337 using Wash method Chemical and made it Clean (earned $100)
+Intern Olivia AA Brown washed RacingMotorcycles i20_DX_442533135 using Wash method Elbow Grease and made it Dirty (earned $25)
+Repairing North Branch....
+Mechanic Evelyn AA Wilson repaired Broken i20_Sedan_-782454023 and made it Used (earned $235.0)
+Mechanic Emma LL Taylor repaired Broken Bulldozer Electric_228314303 and made it Used (earned $305.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used RAM_DX_-1713685779 and made it Like New (earned $235.0)
+Mechanic Evelyn AA Wilson repaired Used i20_Sedan_-782454023 and made it Like New (earned $235.0)
+Mechanic Emma LL Taylor repaired Broken i20_XS_-1503354739 and made it Used (earned $250.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_SUV_-208074390 to Buyer with Addon: None (Price Increased by $0.0) for $76266.0 (earned $ 2000.0 bonus)
+Total Sales : 76266.0 Driver Emma AA Davis has left the FNCD as he was Injured
+Mechanic Evelyn AA Wilson has quit the FNCD
+Total Operating Cost : 1493523.966425
+Total Operating Cost : 1493523.966425
+*** FNCD Day 14 Tuesday ***
+Opening North Branch....(current budget $1493523.966425)
+Hired Intern Charlotte HH Brown
+Hired Driver Charlotte HH Brown
+Purchased Broken , Clean PickUpCar for $15666.0 Cost
+Opening South Branch....(current budget $1477857.966425)
+Washing North Branch....
+Intern Ava UU Wilson washed RegularCar i10_LUX_251512159 using Wash method Chemical and made it Clean (earned $100)
+Intern Emma SS Johnson washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+Washing South Branch....
+Intern Ava UU Wilson washed RegularCar Ferrari_AC_-1066366192 using Wash method Chemical and made it Dirty (earned $100)
+Intern Olivia AA Brown washed PickUpCar Porsche_Racer_-396805175 using Wash method Elbow Grease and made it Clean (earned $300)
+Intern Emma SS Johnson washed RegularCar Ford_Hatchback_-225206993 using Wash method Chemical and made it Clean (earned $100)
+Repairing North Branch....
+Mechanic Emma JJ Jones repaired Used RAM_DX_529565182 and made it Like New (earned $350.0)
+Mechanic Emma LL Taylor repaired Used Bentley_Sports_-1771708419 and made it Like New (earned $250.0)
+Repairing South Branch....
+Mechanic Emma JJ Jones repaired Used Porsche_EXL_835435221 and made it Like New (earned $350.0)
+Mechanic Emma LL Taylor repaired Broken Subaru_Sedan_-261899649 and made it Used (earned $350.0)
+Mechanic Evelyn LL Jones repaired Used The Felon Electric_-492312269 and made it Like New (earned $305.0)
+Selling North Branch....
+Salesperson Mia LL Davis sold Used RegularCar i10_LUX_251512159 to Buyer with Addon: None (Price Increased by $0.0) for $39573.0 (earned $ 1000.0 bonus)
+Total Sales : 39573.0 Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PickUpCar Lamborghini_Sumo_-1090349381 to Buyer with Addon: Satellite Radio (Price Increased by $3527.125) for $74069.625 (earned $ 2000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar Bentley_Sumo_-1509938691 to Buyer with Addon: Extended Warranty (Price Increased by $18335.0) for $110010.0 (earned $ 3000.0 bonus)
+Total Sales : 184079.625 Mechanic Emma LL Taylor has quit the FNCD
+Total Operating Cost : 1699863.591425
+Mechanic Emma JJ Jones has quit the FNCD
+Total Operating Cost : 1699863.591425
+*** FNCD Day 15 Wednesday ***
+Opening North Branch....(current budget $1699863.591425)
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $16635.0 Cost
+Purchased Like New , Sparkling PerformanceCar for $25771.0 Cost
+Purchased Like New , Clean PickUpCar for $25395.0 Cost
+Opening South Branch....(current budget $1674468.591425)
+Washing North Branch....
+Intern Emma SS Johnson washed PerformanceCar i20_XS_-1503354739 using Wash method Chemical and made it Clean (earned $200)
+Intern Sophia LL Jones washed RegularCar BMW_XS_1867684943 using Wash method Chemical and made it Dirty (earned $100)
+Washing South Branch....
+Intern Emma SS Johnson washed PerformanceCar i20_XS_-1503354739 using Wash method Chemical and made it Clean (earned $200)
+Intern Sophia LL Jones washed RacingMotorcycles Subaru_Sports_-1002082460 using Wash method Chemical and made it Clean (earned $25)
+Repairing North Branch....
+Mechanic Ava UU Wilson repaired Broken Tesla_Sports_-648256115 and made it Used (earned $150.0)
+Mechanic Olivia AA Brown repaired Broken Audi_Edge_-1721225253 and made it Used (earned $350.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Used El Toro Loco_42202693 and made it Like New (earned $305.0)
+Mechanic Ava UU Wilson repaired Used Sudden Impact_460525476 and made it Like New (earned $305.0)
+Mechanic Olivia AA Brown repaired Used Jaguar_XS_-4193511 and made it Like New (earned $250.0)
+Selling North Branch....
+Salesperson Mia LL Davis sold Used PickUpCar Audi_Edge_-1721225253 to Buyer with Addon: None (Price Increased by $0.0) for $69669.0 (earned $ 2000.0 bonus)
+Total Sales : 69669.0 Selling North Branch....
+Salesperson Charlotte GG Jones sold Used RegularCar Tesla_Sports_-648256115 to Buyer with Addon: Satellite Radio (Price Increased by $2253.3) for $47319.3 (earned $ 1000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar BMW_Outback_-1637533590 to Buyer with Addon: None (Price Increased by $0.0) for $84042.5 (earned $ 3000.0 bonus)
+Total Sales : 131361.8 
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 4
+ Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 6
+ Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 18
+ 
+ Racing South Branch............ 
+Total Operating Cost : 1871961.391425
+Total Operating Cost : 1871961.391425
+*** FNCD Day 16 Thursday ***
+Opening North Branch....(current budget $1871961.391425)
+Purchased Like New , Clean RegularCar for $11999.0 Cost
+Purchased Used , Dirty PerformanceCar for $21451.0 Cost
+Purchased Broken , Dirty PickUpCar for $39465.0 Cost
+Opening South Branch....(current budget $1832496.391425)
+Washing North Branch....
+Intern Emma SS Johnson washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Chemical and made it Dirty (earned $200)
+Intern Sophia LL Jones washed MonsterTrucks Bear Foot USA_976757668 using Wash method Chemical and made it Clean (earned $115)
+Intern Sophia KK Brown washed PerformanceCar Tesla_Sports_1087896913 using Wash method Detailed and made it Dirty (earned $200)
+Washing South Branch....
+Intern Emma SS Johnson washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Chemical and made it Clean (earned $115)
+Intern Sophia LL Jones washed MonsterTrucks Sudden Impact_460525476 using Wash method Chemical and made it Sparkling (earned $115)
+Intern Sophia KK Brown washed RegularCar i10_Sports_1164065337 using Wash method Detailed and made it Clean (earned $100)
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Used Bulldozer Electric_228314303 and made it Like New (earned $305.0)
+Mechanic Olivia AA Brown repaired Used Bear Foot USA_976757668 and made it Like New (earned $305.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Used i20_XS_-1503354739 and made it Like New (earned $250.0)
+Mechanic Ava UU Wilson repaired Used Tesla_Sports_1087896913 and made it Like New (earned $250.0)
+Mechanic Olivia AA Brown repaired Broken RAM_EXL_1175901394 and made it Used (earned $325.0)
+Selling North Branch....
+Salesperson Mia LL Davis sold Like New RegularCar i10_Sports_1164065337 to Buyer with Addon: None (Price Increased by $0.0) for $38860.0 (earned $ 1000.0 bonus)
+Total Sales : 38860.0 Selling North Branch....
+Salesperson Mia LL Davis sold Like New PickUpCar Porsche_Racer_-396805175 to Buyer with Addon: Extended Warranty (Price Increased by $13640.800000000001) for $81844.8 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_XS_-1503354739 to Buyer with Addon: None (Price Increased by $0.0) for $94062.5 (earned $ 3000.0 bonus)
+Total Sales : 175907.3 Intern Emma SS Johnson has quit the FNCDTotal Operating Cost : 2045680.691425
+Mechanic Ava UU Wilson has quit the FNCD
+Total Operating Cost : 2045680.691425
+*** FNCD Day 17 Friday ***
+Opening North Branch....(current budget $2045680.691425)
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Like New , Clean RegularCar for $10772.0 Cost
+Purchased Like New , Dirty PerformanceCar for $32131.0 Cost
+Purchased Broken , Sparkling PickUpCar for $11457.0 Cost
+Opening South Branch....(current budget $2034223.691425)
+Washing North Branch....
+Intern Evelyn QQ Smith washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Elbow Grease and made it Dirty (earned $300)
+Washing South Branch....
+Intern Evelyn QQ Smith washed MonsterTrucks Swamp Thing_907039809 using Wash method Elbow Grease and made it Dirty (earned $115)
+Repairing North Branch....
+Mechanic Olivia AA Brown repaired Broken i20_Forester_1875075635 and made it Used (earned $350.0)
+Mechanic Sophia LL Jones repaired Used RAM_EXL_1175901394 and made it Like New (earned $325.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Broken Bentley_SUV_1829663135 and made it Used (earned $350.0)
+Mechanic Olivia AA Brown repaired Used i20_Forester_1875075635 and made it Like New (earned $350.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_Sports_-1771708419 to Buyer with Addon: Extended Warranty (Price Increased by $16011.0) for $96066.0 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_Sports_-1771708419 to Buyer with Addon: Satellite Radio (Price Increased by $4803.3) for $100869.3 (earned $ 3000.0 bonus)
+Total Sales : 196935.3 Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_Forester_1841329514 to Buyer with Addon: Satellite Radio (Price Increased by $2759.875) for $57957.375 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_Forester_1841329514 to Buyer with Addon: Extended Warranty (Price Increased by $11591.475) for $69548.85 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Tesla_LUX_-452906607 to Buyer with Addon: Satellite Radio (Price Increased by $3711.0) for $77931.0 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar Tesla_LUX_-452906607 to Buyer with Addon: Undercoating (Price Increased by $3896.55) for $81827.55 (earned $ 3000.0 bonus)
+Total Sales : 287264.775 Mechanic Olivia AA Brown has quit the FNCD
+Total Operating Cost : 2517175.766425
+Mechanic Sophia LL Jones has quit the FNCD
+Total Operating Cost : 2517175.766425
+*** FNCD Day 18 Saturday ***
+Opening North Branch....(current budget $2517175.766425)
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Like New , Dirty PerformanceCar for $29207.0 Cost
+Purchased Like New , Dirty PerformanceCar for $26402.0 Cost
+Purchased Like New , Dirty PickUpCar for $31493.0 Cost
+Opening South Branch....(current budget $2485682.766425)
+Washing North Branch....
+Intern Mia TT Brown washed ElectricCars RAM_EXL_1175901394 using Wash method Chemical and made it Clean (earned $125)
+Washing South Branch....
+Intern Harper GG Johnson washed RegularCar BMW_XS_1867684943 using Wash method Elbow Grease and made it Dirty (earned $100)
+Intern Mia TT Brown washed ElectricTrucks Black STallion Electric_-60681275 using Wash method Chemical and made it Clean (earned $115)
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Broken Bugatti_Forester_-2118715318 and made it Used (earned $350.0)
+Mechanic Sophia KK Brown repaired Broken Black STallion Electric_-60681275 and made it Used (earned $305.0)
+Mechanic Olivia CC Wilson repaired Used Subaru_Sedan_-261899649 and made it Like New (earned $350.0)
+Repairing South Branch....
+Mechanic Sophia KK Brown repaired Used Black STallion Electric_-60681275 and made it Like New (earned $305.0)
+Mechanic Olivia CC Wilson repaired Used Bentley_SUV_1829663135 and made it Like New (earned $350.0)
+Selling North Branch....
+Salesperson Mia LL Davis sold Like New RegularCar Porsche_XS_1803926392 to Buyer with Addon: None (Price Increased by $0.0) for $38304.0 (earned $ 1000.0 bonus)
+Salesperson Mia LL Davis sold Used PickUpCar Bugatti_Forester_-2118715318 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1623.1200000000001) for $82779.12 (earned $ 2000.0 bonus)
+Total Sales : 121083.12 Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: Extended Warranty (Price Increased by $13504.800000000001) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: None (Price Increased by $0.0) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: None (Price Increased by $0.0) for $81028.8 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar i20_DX_60054973 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1620.576) for $82649.376 (earned $ 3000.0 bonus)
+Total Sales : 325735.776 Total Operating Cost : 2931404.662425
+Salesperson Mia LL Davis has quit the FNCD 
+Total Operating Cost : 2931404.662425
+*** FNCD only runs for Racing Today *** Day 19 Sunday ***
+....Current budget $2931404.662425)
+
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 9
+ Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 16
+ Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 5
+ 
+ Racing South Branch............ 
+*** FNCD Day 20 Monday ***
+Opening North Branch....(current budget $2931404.662425)
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $17570.0 Cost
+Purchased Broken , Dirty PerformanceCar for $22635.0 Cost
+Purchased Used , Clean PickUpCar for $11244.0 Cost
+Opening South Branch....(current budget $2920160.662425)
+Washing North Branch....
+Intern Harper GG Johnson washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Elbow Grease and made it Dirty (earned $300)
+Intern Mia EE Williams washed RegularCar Porsche_Sedan_217009135 using Wash method Chemical and made it Clean (earned $100)
+Washing South Branch....
+Intern Mia TT Brown washed PickUpCar i20_AC_-264812866 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia EE Williams washed RegularCar BMW_XS_1867684943 using Wash method Chemical and made it Clean (earned $100)
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Broken Mercedes_Sumo_1783815883 and made it Used (earned $235.0)
+Mechanic Sophia KK Brown repaired Used Mercedes_Sumo_1783815883 and made it Like New (earned $235.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Broken i20_Hatchback_-1679333615 and made it Used (earned $250.0)
+Mechanic Sophia KK Brown repaired Used i20_Hatchback_-1679333615 and made it Like New (earned $250.0)
+Selling North Branch....
+Salesperson Evelyn QQ Smith sold Like New PerformanceCar i20_Hatchback_-1679333615 to Buyer with Addon: Undercoating (Price Increased by $4939.375) for $103726.875 (earned $ 3000.0 bonus)
+Total Sales : 103726.875 Selling North Branch....
+Total Sales : 0.0 Mechanic Olivia CC Wilson has quit the FNCD
+Total Operating Cost : 3020141.537425
+Total Operating Cost : 3020141.537425
+*** FNCD Day 21 Tuesday ***
+Opening North Branch....(current budget $3020141.537425)
+Hired Intern Charlotte GG Jones
+Purchased Used , Dirty PerformanceCar for $36938.0 Cost
+Opening South Branch....(current budget $2983203.537425)
+Washing North Branch....
+Intern Mia TT Brown washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia EE Williams washed Motorcycles Jaguar_Forester_1246109696 using Wash method Chemical and made it Clean (earned $25)
+Intern Emma NN Miller washed Motorcycles Mercedes_Sumo_1783815883 using Wash method Elbow Grease and made it Dirty (earned $25)
+Washing South Branch....
+Intern Mia TT Brown washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+Intern Mia EE Williams washed ElectricTrucks The Felon Electric_-492312269 using Wash method Chemical and made it Clean (earned $115)
+Intern Emma NN Miller washed ElectricCars RAM_EXL_1175901394 using Wash method Elbow Grease and made it Clean (earned $125)
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Broken War Wizard Electric_1932707742 and made it Used (earned $305.0)
+Mechanic Harper GG Johnson repaired Used War Wizard Electric_1932707742 and made it Like New (earned $305.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Broken Porsche_Sedan_217009135 and made it Used (earned $150.0)
+Mechanic Sophia KK Brown repaired Used Bugatti_Sports_-980730593 and made it Like New (earned $350.0)
+Mechanic Harper GG Johnson repaired Used Porsche_Sedan_217009135 and made it Like New (earned $150.0)
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PickUpCar i20_AC_-264812866 to Buyer with Addon: Undercoating (Price Increased by $3259.6000000000004) for $68451.6 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar i20_AC_-264812866 to Buyer with Addon: Extended Warranty (Price Increased by $13690.320000000002) for $82141.92000000001 (earned $ 2000.0 bonus)
+Total Sales : 150593.52000000002 Selling North Branch....
+Salesperson Evelyn QQ Smith sold Like New RegularCar Porsche_Sedan_217009135 to Buyer with Addon: Undercoating (Price Increased by $2380.0) for $49980.0 (earned $ 1000.0 bonus)
+Total Sales : 49980.0 Mechanic Sophia KK Brown has quit the FNCD
+Total Operating Cost : 3182077.0574250002
+Total Operating Cost : 3182077.0574250002
+*** FNCD Day 22 Wednesday ***
+Opening North Branch....(current budget $3182077.0574250002)
+Hired Intern Charlotte GG Jones
+Purchased Like New , Dirty RegularCar for $10425.0 Cost
+Purchased Used , Dirty PickUpCar for $11404.0 Cost
+Opening South Branch....(current budget $3170673.0574250002)
+Washing North Branch....
+Intern Mia EE Williams washed PickUpCar Bentley_AC_-533430949 using Wash method Chemical and made it Clean (earned $300)
+Washing South Branch....
+Intern Mia EE Williams washed RegularCar Lamborghini_LUX_-550087448 using Wash method Chemical and made it Clean (earned $100)
+Intern Emma NN Miller washed ElectricTrucks Jurassic Attack Electric_1873711052 using Wash method Elbow Grease and made it Dirty (earned $115)
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Broken Bentley_AC_-533430949 and made it Used (earned $350.0)
+Mechanic Harper GG Johnson repaired Used Bugatti_Outback_-231368480 and made it Like New (earned $250.0)
+Repairing South Branch....
+Mechanic Evelyn LL Jones repaired Used Bentley_AC_-533430949 and made it Like New (earned $350.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Salesperson Evelyn QQ Smith sold Like New PerformanceCar Bugatti_Outback_-231368480 to Buyer with Addon: None (Price Increased by $0.0) for $86545.0 (earned $ 3000.0 bonus)
+Total Sales : 86545.0 
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 15
+ Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 1
+ Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 3
+ 
+ Racing South Branch............ 
+Salesperson Evelyn QQ Smith has quit the FNCD 
+Total Operating Cost : 3253819.0574250002
+Total Operating Cost : 3253819.0574250002
+*** FNCD Day 23 Thursday ***
+Opening North Branch....(current budget $3253819.0574250002)
+Hired Intern Charlotte GG Jones
+Purchased Used , Clean PerformanceCar for $36942.0 Cost
+Opening South Branch....(current budget $3216877.0574250002)
+Washing North Branch....
+Intern Emma NN Miller washed PickUpCar i20_Forester_1875075635 using Wash method Elbow Grease and made it Dirty (earned $300)
+Intern Evelyn GG Davis washed Motorcycles Jaguar_Forester_1246109696 using Wash method Elbow Grease and made it Clean (earned $25)
+Washing South Branch....
+Repairing North Branch....
+Mechanic Evelyn LL Jones repaired Used Bentley_XL_1681409564 and made it Like New (earned $250.0)
+Repairing South Branch....
+Selling North Branch....
+Salesperson Mia EE Williams sold Like New PickUpCar Bentley_SUV_1829663135 to Buyer with Addon: Satellite Radio (Price Increased by $3202.875) for $67260.375 (earned $ 2000.0 bonus)
+Total Sales : 67260.375 Selling North Branch....
+Salesperson Mia EE Williams sold Like New PerformanceCar Bentley_XL_1681409564 to Buyer with Addon: None (Price Increased by $0.0) for $82475.0 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_XL_1681409564 to Buyer with Addon: None (Price Increased by $0.0) for $82475.0 (earned $ 3000.0 bonus)
+Total Sales : 164950.0 Total Operating Cost : 3448032.4324250002
+Mechanic Evelyn LL Jones has quit the FNCD
+Salesperson Mia EE Williams has quit the FNCD 
+Total Operating Cost : 3448032.4324250002
+*** FNCD Day 24 Friday ***
+Opening North Branch....(current budget $3448032.4324250002)
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Used , Dirty PerformanceCar for $29713.0 Cost
+Purchased Like New , Dirty PickUpCar for $30444.0 Cost
+Opening South Branch....(current budget $3417588.4324250002)
+Washing North Branch....
+Intern Evelyn GG Davis washed RegularCar Subaru_Edge_1714493021 using Wash method Elbow Grease and made it Dirty (earned $100)
+Intern Harper VV Taylor washed PerformanceCar Bugatti_XL_-1797292601 using Wash method Chemical and made it Clean (earned $200)
+Washing South Branch....
+Intern Harper VV Taylor washed MonsterTrucks Jurassic Attack_-912951034 using Wash method Chemical and made it Clean (earned $115)
+Repairing North Branch....
+Mechanic Mia TT Brown repaired Used Tesla_DX_570124929 and made it Like New (earned $250.0)
+Repairing South Branch....
+Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New RegularCar Jaguar_Sports_214663393 to Buyer with Addon: Extended Warranty (Price Increased by $7987.6) for $47925.6 (earned $ 1000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Tesla_DX_570124929 to Buyer with Addon: None (Price Increased by $0.0) for $86680.0 (earned $ 3000.0 bonus)
+Total Sales : 134605.6 Selling North Branch....
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bugatti_Sports_-980730593 to Buyer with Addon: None (Price Increased by $0.0) for $60270.0 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Jaguar_XS_-4193511 to Buyer with Addon: Satellite Radio (Price Increased by $3246.75) for $68181.75 (earned $ 3000.0 bonus)
+Total Sales : 128451.75 Mechanic Mia TT Brown has quit the FNCD
+Total Operating Cost : 3680069.7824250003
+Intern Harper VV Taylor has quit the FNCDTotal Operating Cost : 3680069.7824250003
+*** FNCD Day 25 Saturday ***
+Opening North Branch....(current budget $3680069.7824250003)
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $17856.0 Cost
+Purchased Like New , Clean PerformanceCar for $35009.0 Cost
+Purchased Like New , Clean PerformanceCar for $21809.0 Cost
+Purchased Like New , Dirty PickUpCar for $15515.0 Cost
+Opening South Branch....(current budget $3664554.7824250003)
+Washing North Branch....
+Intern Charlotte BB Taylor washed MonsterTrucks Jurassic Attack_-912951034 using Wash method Elbow Grease and made it Clean (earned $115)
+Washing South Branch....
+Intern Evelyn AA Taylor washed ElectricCars Maruti_XS_1084906753 using Wash method Detailed and made it Dirty (earned $125)
+Intern Isabella CC Jones washed RacingMotorcycles Lamborghini_Sports_-242333661 using Wash method Elbow Grease and made it Dirty (earned $25)
+Repairing North Branch....
+Mechanic Evelyn GG Davis repaired Broken Porsche_Racer_792124260 and made it Used (earned $150.0)
+Repairing South Branch....
+Mechanic Harper GG Johnson repaired Used Porsche_Racer_792124260 and made it Like New (earned $150.0)
+Selling North Branch....
+Total Sales : 0.0 Selling North Branch....
+Total Sales : 0.0 Mechanic Emma NN Miller has quit the FNCD
+Total Operating Cost : 3663578.7824250003
+Mechanic Harper GG Johnson has quit the FNCD
+Salesperson Amelia VV Williams has quit the FNCD 
+Total Operating Cost : 3663578.7824250003
+*** FNCD only runs for Racing Today *** Day 26 Sunday ***
+....Current budget $3663578.7824250003)
+
+ Racing North Branch............ 
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 6
+ Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 9
+ Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 12
+ 
+ Racing South Branch............ 
+*** FNCD Day 27 Monday ***
+Opening North Branch....(current budget $3663578.7824250003)
+Hired Intern Olivia OO Johnson
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Opening South Branch....(current budget $3663578.7824250003)
+Washing North Branch....
+Intern Emma CC Johnson washed ElectricCars Maruti_Outback_-1189934202 using Wash method Detailed and made it Clean (earned $125)
+Intern Amelia GG Johnson washed PickUpCar Jaguar_XL_1648525296 using Wash method Detailed and made it Dirty (earned $300)
+Washing South Branch....
+Intern Emma CC Johnson washed RacingMotorcycles i20_Hatchback_-21939971 using Wash method Detailed and made it Dirty (earned $25)
+Repairing North Branch....
+Repairing South Branch....
+Selling North Branch....
+Salesperson Charlotte BB Taylor sold Like New PerformanceCar i20_SUV_-1650840760 to Bu

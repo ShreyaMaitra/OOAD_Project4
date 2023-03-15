@@ -1,0 +1,47 @@
+Simulation day 2:
+*** FNCD Day 2 Thursday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte AA Miller
+Hired Intern Olivia OO Johnson
+Hired Intern Emma JJ Jones
+
+ Opening South Branch....
+
+
+Intern Ava MM Moore washed RacingMotorcycles i20_Hatchback_-21939971 using Wash method Elbow Grease and made it Dirty (earned $25)
+Intern Evelyn AA Wilson washed MonsterTrucks El Toro Loco_42202693 using Wash method Detailed and made it Dirty (earned $115)
+Intern Emma JJ Smith washed Formula1Cars Porsche_Sumo_-1321755096 using Wash method Chemical and made it Clean (earned $300)
+
+
+Intern Evelyn AA Wilson washed ElectricCars Subaru_Sports_690361671 using Wash method Detailed and made it Dirty (earned $125)
+Intern Emma JJ Smith washed MonsterTrucks Sudden Impact_460525476 using Wash method Chemical and made it Sparkling (earned $115)
+
+
+Mechanic Emma JJ Jones repaired Broken RAM_Edge_-797517649 and made it Like New (earned $350.0)
+Mechanic Isabella LL Wilson repaired Broken Jurassic Attack Electric_1873711052 and made it Like New (earned $305.0)
+Mechanic Harper II Brown repaired Broken Ford_Hatchback_-225206993 and made it Like New (earned $150.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Mercedes_Sumo_1783815883 and made it Used (earned $235.0)
+Mechanic Harper II Brown repaired Broken Bear Foot (2xtreme) Electric_-364684620 and made it Like New (earned $305.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_Sports_-2085569223 to Buyer with Addon: None (Price Increased by $0.0) for $76502.0 (earned $ 3000.0 bonus)
+
+
+Salesperson Charlotte AA Miller sold Like New PerformanceCar Porsche_DX_1665717981 to Buyer with Addon: Satellite Radio (Price Increased by $3443.5) for $72313.5 (earned $ 3000.0 bonus)
+Salesperson Evelyn GG Jones sold Like New PerformanceCar Porsche_DX_1665717981 to Buyer with Addon: Extended Warranty (Price Increased by $14462.7) for $86776.2 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Salesperson Charlotte AA Miller has quit the FNCD
+
+
+Ava MM Moore has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+Mechanic Harper II Brown has quit the FNCD
+
+
+Evelyn AA Wilson has shifted to the position of a Mechanic
+

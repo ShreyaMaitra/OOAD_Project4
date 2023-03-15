@@ -1,0 +1,44 @@
+Simulation day 10:
+*** FNCD Day 10 Friday *** 
+
+ Opening North Branch....
+Hired Intern Emma AA Davis
+Purchased Like New , Dirty PerformanceCar for $20142.0 Cost
+
+ Opening South Branch....
+
+
+Intern Amelia HH Miller washed RegularCar Porsche_Outback_-2043469875 using Wash method Detailed and made it Dirty (earned $100)
+Intern Emma LL Taylor washed ElectricCars Subaru_Sports_690361671 using Wash method Chemical and made it Clean (earned $125)
+Intern Evelyn LL Jones washed RacingMotorcycles RAM_Sports_983494645 using Wash method Elbow Grease and made it Dirty (earned $25)
+
+
+Intern Emma LL Taylor washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Chemical and made it Clean (earned $115)
+
+
+Mechanic Emma JJ Jones repaired Broken RAM_XS_-2080367552 and made it Used (earned $250.0)
+Mechanic Mia FF Miller repaired Broken Swamp Thing_907039809 and made it Like New (earned $305.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Ferrari_LUX_-1119202680 and made it Used (earned $235.0)
+Mechanic Evelyn AA Wilson repaired Broken Ferrari_AC_-1066366192 and made it Like New (earned $150.0)
+Mechanic Mia FF Miller repaired Broken Sudden Impact_460525476 and made it Used (earned $305.0)
+
+
+Salesperson Mia LL Davis sold Like New RegularCar Porsche_Outback_-2043469875 to Buyer with Addon: None (Price Increased by $0.0) for $38956.0 (earned $ 1000.0 bonus)
+
+
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: Satellite Radio (Price Increased by $5303.85) for $111380.85 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: None (Price Increased by $0.0) for $111380.85 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Used PerformanceCar RAM_XS_-2080367552 to Buyer with Addon: None (Price Increased by $0.0) for $111380.85 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Mechanic Mia FF Miller has quit the FNCD
+
+
+Amelia HH Miller has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+
+
+

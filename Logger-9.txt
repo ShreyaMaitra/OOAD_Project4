@@ -1,0 +1,43 @@
+Simulation day 9:
+*** FNCD Day 9 Thursday *** 
+
+ Opening North Branch....
+Hired Intern Emma AA Davis
+Purchased Used , Dirty PickUpCar for $29358.0 Cost
+
+ Opening South Branch....
+
+
+Intern Mia LL Davis washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+Intern Amelia HH Miller washed RacingMotorcycles RAM_Sports_983494645 using Wash method Detailed and made it Dirty (earned $25)
+Intern Emma LL Taylor washed ElectricCars Subaru_Sports_690361671 using Wash method Chemical and made it Clean (earned $125)
+
+
+Intern Mia LL Davis washed Motorcycles Mercedes_Sumo_1783815883 using Wash method Chemical and made it Sparkling (earned $25)
+Intern Emma LL Taylor washed Formula1Cars RAM_Hatchback_1816482023 using Wash method Chemical and made it Sparkling (earned $300)
+
+
+Mechanic Emma JJ Jones repaired Broken Bentley_Sports_651722896 and made it Used (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Broken War Wizard Electric_1932707742 and made it Like New (earned $305.0)
+Mechanic Mia FF Miller repaired Broken i20_Hatchback_-21939971 and made it Like New (earned $235.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Tesla_Racer_488526359 and made it Like New (earned $250.0)
+Mechanic Evelyn AA Wilson repaired Broken Bentley_Forester_1841329514 and made it Like New (earned $350.0)
+Mechanic Mia FF Miller repaired Broken Ferrari_AC_-1066366192 and made it Used (earned $150.0)
+
+
+
+
+Salesperson Ava AA Jones sold Like New PerformanceCar Tesla_Racer_488526359 to Buyer with Addon: None (Price Increased by $0.0) for $97870.0 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Salesperson Ava AA Jones has quit the FNCD
+
+
+Mia LL Davis has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+
+
+

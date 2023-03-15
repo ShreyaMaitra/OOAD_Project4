@@ -1,0 +1,42 @@
+Simulation day 20:
+*** FNCD Day 20 Monday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $17570.0 Cost
+Purchased Broken , Dirty PerformanceCar for $22635.0 Cost
+Purchased Used , Clean PickUpCar for $11244.0 Cost
+
+ Opening South Branch....
+
+
+Intern Harper GG Johnson washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Elbow Grease and made it Dirty (earned $300)
+Intern Mia EE Williams washed RegularCar Porsche_Sedan_217009135 using Wash method Chemical and made it Clean (earned $100)
+
+
+Intern Mia TT Brown washed PickUpCar i20_AC_-264812866 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia EE Williams washed RegularCar BMW_XS_1867684943 using Wash method Chemical and made it Clean (earned $100)
+
+
+Mechanic Evelyn LL Jones repaired Broken Mercedes_Sumo_1783815883 and made it Used (earned $235.0)
+Mechanic Sophia KK Brown repaired Broken Mercedes_Sumo_1783815883 and made it Like New (earned $235.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken i20_Hatchback_-1679333615 and made it Used (earned $250.0)
+Mechanic Sophia KK Brown repaired Broken i20_Hatchback_-1679333615 and made it Like New (earned $250.0)
+
+
+Salesperson Evelyn QQ Smith sold Like New PerformanceCar i20_Hatchback_-1679333615 to Buyer with Addon: Undercoating (Price Increased by $4939.375) for $103726.875 (earned $ 3000.0 bonus)
+
+
+
+ Ending North Branch ....
+Mechanic Olivia CC Wilson has quit the FNCD
+
+
+Harper GG Johnson has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+
+
+

@@ -1,0 +1,48 @@
+Simulation day 17:
+*** FNCD Day 17 Friday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Like New , Clean RegularCar for $10772.0 Cost
+Purchased Like New , Dirty PerformanceCar for $32131.0 Cost
+Purchased Broken , Sparkling PickUpCar for $11457.0 Cost
+
+ Opening South Branch....
+
+
+Intern Evelyn QQ Smith washed Formula1Cars Jaguar_EXL_-4462156 using Wash method Elbow Grease and made it Dirty (earned $300)
+
+
+Intern Evelyn QQ Smith washed MonsterTrucks Swamp Thing_907039809 using Wash method Elbow Grease and made it Dirty (earned $115)
+
+
+Mechanic Olivia AA Brown repaired Broken i20_Forester_1875075635 and made it Used (earned $350.0)
+Mechanic Sophia LL Jones repaired Broken RAM_EXL_1175901394 and made it Like New (earned $325.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken Bentley_SUV_1829663135 and made it Used (earned $350.0)
+Mechanic Olivia AA Brown repaired Broken i20_Forester_1875075635 and made it Like New (earned $350.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_Sports_-1771708419 to Buyer with Addon: Extended Warranty (Price Increased by $16011.0) for $96066.0 (earned $ 3000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Bentley_Sports_-1771708419 to Buyer with Addon: Satellite Radio (Price Increased by $4803.3) for $100869.3 (earned $ 3000.0 bonus)
+
+
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_Forester_1841329514 to Buyer with Addon: Satellite Radio (Price Increased by $2759.875) for $57957.375 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar Bentley_Forester_1841329514 to Buyer with Addon: Extended Warranty (Price Increased by $11591.475) for $69548.85 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Tesla_LUX_-452906607 to Buyer with Addon: Satellite Radio (Price Increased by $3711.0) for $77931.0 (earned $ 3000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar Tesla_LUX_-452906607 to Buyer with Addon: Undercoating (Price Increased by $3896.55) for $81827.55 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Mechanic Olivia AA Brown has quit the FNCD
+
+
+Sophia KK Brown has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+Mechanic Sophia LL Jones has quit the FNCD
+
+
+Olivia CC Wilson has shifted to the position of a Mechanic
+

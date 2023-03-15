@@ -1,0 +1,50 @@
+Simulation day 3:
+*** FNCD Day 3 Friday *** 
+
+ Opening North Branch....
+Hired Intern Emma JJ Jones
+Hired Intern Emma AA Davis
+Purchased Broken , Dirty PerformanceCar for $24808.0 Cost
+Purchased Used , Dirty PerformanceCar for $27811.0 Cost
+
+ Opening South Branch....
+
+
+Intern Emma JJ Smith washed Formula1Cars RAM_Hatchback_1816482023 using Wash method Chemical and made it Clean (earned $300)
+Intern Mia FF Miller washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Detailed and made it Dirty (earned $200)
+
+
+Intern Emma JJ Smith washed ElectricCars i10_Forester_1265391541 using Wash method Chemical and made it Clean (earned $125)
+Intern Mia FF Miller washed Motorcycles Tesla_AC_207456426 using Wash method Detailed and made it Dirty (earned $25)
+Intern Emma UU Johnson washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Detailed and made it Clean (earned $115)
+
+
+Mechanic Evelyn AA Wilson repaired Broken The Felon Electric_-492312269 and made it Used (earned $305.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Maruti_Outback_-1189934202 and made it Used (earned $325.0)
+Mechanic Isabella LL Wilson repaired Broken RAM_Hatchback_1816482023 and made it Used (earned $350.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_Hatchback_-357850701 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1021.52) for $52097.52 (earned $ 3000.0 bonus)
+
+
+Salesperson Ava MM Moore sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: None (Price Increased by $0.0) for $81370.0 (earned $ 2000.0 bonus)
+Salesperson Ava MM Moore sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4068.5) for $85438.5 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4271.925) for $89710.425 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Satellite Radio (Price Increased by $4485.521250000001) for $94195.94625000001 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_Edge_-797517649 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1883.9189250000002) for $96079.86517500001 (earned $ 2000.0 bonus)
+
+ Ending North Branch ....
+Intern Emma JJ Smith has quit the FNCD
+
+
+
+ Ending South Branch ....
+Mechanic Isabella LL Wilson has quit the FNCD
+Salesperson Ava MM Moore has quit the FNCD
+Intern Emma UU Johnson has quit the FNCD
+
+
+Mia FF Miller has shifted to the position of a Mechanic
+

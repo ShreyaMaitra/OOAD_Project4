@@ -1,0 +1,46 @@
+Simulation day 1:
+*** FNCD Day 1 Wednesday *** 
+
+ Opening North Branch....
+
+ Opening South Branch....
+
+
+Intern Harper II Brown washed ElectricTrucks Black STallion Electric_-60681275 using Wash method Detailed and made it Dirty (earned $115)
+
+
+Intern Harper II Brown washed ElectricTrucks War Wizard Electric_1932707742 using Wash method Detailed and made it Dirty (earned $115)
+Intern Olivia BB Brown washed RacingMotorcycles Subaru_Sports_-1002082460 using Wash method Elbow Grease and made it Clean (earned $25)
+
+
+Mechanic Emma JJ Jones repaired Broken i20_Hatchback_-21939971 and made it Used (earned $235.0)
+Mechanic Isabella LL Wilson repaired Broken Sudden Impact_460525476 and made it Like New (earned $305.0)
+
+
+Mechanic Emma SS Johnson repaired Broken War Wizard Electric_1932707742 and made it Used (earned $305.0)
+Mechanic Emma JJ Jones repaired Broken RAM_DX_-1713685779 and made it Used (earned $235.0)
+Mechanic Isabella LL Wilson repaired Broken Lamborghini_Sports_-242333661 and made it Like New (earned $235.0)
+
+
+
+
+Racing North Branch............
+Driver Olivia OO Johnson driving ElectricTrucks Bulldozer Electric_228314303 secured position 7
+Driver Emma AA Davis driving MonsterTrucks Sudden Impact_460525476 secured position 13
+Driver Charlotte HH Brown driving Motorcycles RAM_DX_-1713685779 secured position 2
+Racing South Branch............
+
+ Ending North Branch ....
+Mechanic Emma SS Johnson has quit the FNCD
+Salesperson Mia OO Williams has quit the FNCD
+
+
+Harper II Brown has shifted to the position of a Mechanic
+Olivia BB Brown has shifted to the position of a Salesperson
+
+ Ending South Branch ....
+Salesperson Olivia BB Brown has quit the FNCD
+
+
+Charlotte GG Jones has shifted to the position of a Salesperson
+

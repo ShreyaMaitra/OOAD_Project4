@@ -1,0 +1,40 @@
+Simulation day 28:
+*** FNCD Day 28 Tuesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte GG Jones
+Purchased Used , Dirty PerformanceCar for $31364.0 Cost
+Purchased Broken , Clean PickUpCar for $29534.0 Cost
+
+ Opening South Branch....
+
+
+Intern Isabella GG Davis washed RacingMotorcycles RAM_Sports_983494645 using Wash method Chemical and made it Clean (earned $25)
+
+
+Intern Sophia NN Brown washed PickUpCar Ford_Hatchback_-1591237995 using Wash method Detailed and made it Dirty (earned $300)
+Intern Isabella GG Davis washed RacingMotorcycles i20_Hatchback_-21939971 using Wash method Chemical and made it Clean (earned $25)
+
+
+Mechanic Evelyn GG Davis repaired Broken Maruti_Outback_1258833490 and made it Like New (earned $250.0)
+Mechanic Evelyn AA Taylor repaired Broken Bugatti_XL_863993551 and made it Used (earned $350.0)
+
+
+Mechanic Evelyn GG Davis repaired Broken Bugatti_XL_863993551 and made it Like New (earned $350.0)
+
+
+Salesperson Charlotte GG Jones sold Like New PerformanceCar Maruti_Outback_1258833490 to Buyer with Addon: Road Rescue Coverage (Price Increased by $1181.8500000000001) for $60274.35 (earned $ 3000.0 bonus)
+
+
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+Salesperson Charlotte GG Jones has quit the FNCD
+Intern Emma CC Johnson has quit the FNCD
+
+
+Sophia NN Brown has shifted to the position of a Salesperson
+

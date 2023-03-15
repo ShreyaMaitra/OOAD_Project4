@@ -1,0 +1,43 @@
+Simulation day 30:
+*** FNCD Day 30 Thursday *** 
+
+ Opening North Branch....
+Hired Intern Olivia OO Johnson
+Hired Intern Charlotte HH Brown
+Hired Intern Isabella BB Williams
+Purchased Like New , Clean PerformanceCar for $39893.0 Cost
+Purchased Broken , Clean PerformanceCar for $21610.0 Cost
+Purchased Like New , Dirty PickUpCar for $12254.0 Cost
+
+ Opening South Branch....
+
+
+Intern Evelyn UU Wilson washed PerformanceCar Audi_Sumo_-434598324 using Wash method Chemical and made it Dirty (earned $200)
+Intern Charlotte II Miller washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+
+
+Intern Charlotte II Miller washed RegularCar Subaru_Edge_1714493021 using Wash method Chemical and made it Clean (earned $100)
+
+
+Mechanic Evelyn GG Davis repaired Broken Audi_AC_-1097408893 and made it Used (earned $250.0)
+Mechanic Isabella CC Jones repaired Broken Audi_AC_-1097408893 and made it Like New (earned $250.0)
+
+
+Mechanic Evelyn GG Davis repaired Broken Sudden Impact_460525476 and made it Used (earned $305.0)
+Mechanic Isabella CC Jones repaired Broken Sudden Impact_460525476 and made it Like New (earned $305.0)
+
+
+Salesperson Charlotte BB Taylor sold Like New PickUpCar i20_Forester_1875075635 to Buyer with Addon: Satellite Radio (Price Increased by $2180.25) for $45785.25 (earned $ 2000.0 bonus)
+Salesperson Evelyn EE Moore sold Like New PerformanceCar Audi_Sumo_-434598324 to Buyer with Addon: Satellite Radio (Price Increased by $3802.7000000000003) for $79856.7 (earned $ 3000.0 bonus)
+
+
+Salesperson Evelyn EE Moore sold Like New PerformanceCar Audi_AC_-1097408893 to Buyer with Addon: None (Price Increased by $0.0) for $70125.0 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+
+
+

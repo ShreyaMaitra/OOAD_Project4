@@ -1,0 +1,37 @@
+Simulation day 27:
+*** FNCD Day 27 Monday *** 
+
+ Opening North Branch....
+Hired Intern Olivia OO Johnson
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+
+ Opening South Branch....
+
+
+Intern Emma CC Johnson washed ElectricCars Maruti_Outback_-1189934202 using Wash method Detailed and made it Clean (earned $125)
+Intern Amelia GG Johnson washed PickUpCar Jaguar_XL_1648525296 using Wash method Detailed and made it Dirty (earned $300)
+
+
+Intern Emma CC Johnson washed RacingMotorcycles i20_Hatchback_-21939971 using Wash method Detailed and made it Dirty (earned $25)
+
+
+
+
+
+
+Salesperson Charlotte BB Taylor sold Like New PerformanceCar i20_SUV_-1650840760 to Buyer with Addon: None (Price Increased by $0.0) for $59500.0 (earned $ 3000.0 bonus)
+
+
+Salesperson Charlotte BB Taylor sold Like New PickUpCar RAM_DX_529565182 to Buyer with Addon: None (Price Increased by $0.0) for $46347.5 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PickUpCar RAM_DX_529565182 to Buyer with Addon: Extended Warranty (Price Increased by $9269.5) for $55617.0 (earned $ 2000.0 bonus)
+
+ Ending North Branch ....
+Intern Amelia GG Johnson has quit the FNCD
+
+
+
+ Ending South Branch ....
+
+
+

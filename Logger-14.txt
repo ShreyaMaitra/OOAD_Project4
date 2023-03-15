@@ -1,0 +1,47 @@
+Simulation day 14:
+*** FNCD Day 14 Tuesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Driver Charlotte HH Brown
+Purchased Broken , Clean PickUpCar for $15666.0 Cost
+
+ Opening South Branch....
+
+
+Intern Ava UU Wilson washed RegularCar i10_LUX_251512159 using Wash method Chemical and made it Clean (earned $100)
+Intern Emma SS Johnson washed RacingMotorcycles Ferrari_LUX_-1119202680 using Wash method Chemical and made it Clean (earned $25)
+
+
+Intern Ava UU Wilson washed RegularCar Ferrari_AC_-1066366192 using Wash method Chemical and made it Dirty (earned $100)
+Intern Olivia AA Brown washed PickUpCar Porsche_Racer_-396805175 using Wash method Elbow Grease and made it Clean (earned $300)
+Intern Emma SS Johnson washed RegularCar Ford_Hatchback_-225206993 using Wash method Chemical and made it Clean (earned $100)
+
+
+Mechanic Emma JJ Jones repaired Broken RAM_DX_529565182 and made it Like New (earned $350.0)
+Mechanic Emma LL Taylor repaired Broken Bentley_Sports_-1771708419 and made it Like New (earned $250.0)
+
+
+Mechanic Emma JJ Jones repaired Broken Porsche_EXL_835435221 and made it Like New (earned $350.0)
+Mechanic Emma LL Taylor repaired Broken Subaru_Sedan_-261899649 and made it Used (earned $350.0)
+Mechanic Evelyn LL Jones repaired Broken The Felon Electric_-492312269 and made it Like New (earned $305.0)
+
+
+Salesperson Mia LL Davis sold Used RegularCar i10_LUX_251512159 to Buyer with Addon: None (Price Increased by $0.0) for $39573.0 (earned $ 1000.0 bonus)
+
+
+Salesperson Charlotte GG Jones sold Like New PickUpCar Lamborghini_Sumo_-1090349381 to Buyer with Addon: Satellite Radio (Price Increased by $3527.125) for $74069.625 (earned $ 2000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar Bentley_Sumo_-1509938691 to Buyer with Addon: Extended Warranty (Price Increased by $18335.0) for $110010.0 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Mechanic Emma LL Taylor has quit the FNCD
+
+
+Ava UU Wilson has shifted to the position of a Mechanic
+
+ Ending South Branch ....
+Mechanic Emma JJ Jones has quit the FNCD
+
+
+Olivia AA Brown has shifted to the position of a Mechanic
+

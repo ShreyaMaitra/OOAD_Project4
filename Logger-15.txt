@@ -1,0 +1,49 @@
+Simulation day 15:
+*** FNCD Day 15 Wednesday *** 
+
+ Opening North Branch....
+Hired Intern Charlotte HH Brown
+Hired Intern Charlotte GG Jones
+Purchased Broken , Dirty RegularCar for $16635.0 Cost
+Purchased Like New , Sparkling PerformanceCar for $25771.0 Cost
+Purchased Like New , Clean PickUpCar for $25395.0 Cost
+
+ Opening South Branch....
+
+
+Intern Emma SS Johnson washed PerformanceCar i20_XS_-1503354739 using Wash method Chemical and made it Clean (earned $200)
+Intern Sophia LL Jones washed RegularCar BMW_XS_1867684943 using Wash method Chemical and made it Dirty (earned $100)
+
+
+Intern Emma SS Johnson washed PerformanceCar i20_XS_-1503354739 using Wash method Chemical and made it Clean (earned $200)
+Intern Sophia LL Jones washed RacingMotorcycles Subaru_Sports_-1002082460 using Wash method Chemical and made it Clean (earned $25)
+
+
+Mechanic Ava UU Wilson repaired Broken Tesla_Sports_-648256115 and made it Used (earned $150.0)
+Mechanic Olivia AA Brown repaired Broken Audi_Edge_-1721225253 and made it Used (earned $350.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken El Toro Loco_42202693 and made it Like New (earned $305.0)
+Mechanic Ava UU Wilson repaired Broken Sudden Impact_460525476 and made it Like New (earned $305.0)
+Mechanic Olivia AA Brown repaired Broken Jaguar_XS_-4193511 and made it Like New (earned $250.0)
+
+
+Salesperson Mia LL Davis sold Used PickUpCar Audi_Edge_-1721225253 to Buyer with Addon: None (Price Increased by $0.0) for $69669.0 (earned $ 2000.0 bonus)
+
+
+Salesperson Charlotte GG Jones sold Used RegularCar Tesla_Sports_-648256115 to Buyer with Addon: Satellite Radio (Price Increased by $2253.3) for $47319.3 (earned $ 1000.0 bonus)
+Salesperson Mia LL Davis sold Like New PerformanceCar BMW_Outback_-1637533590 to Buyer with Addon: None (Price Increased by $0.0) for $84042.5 (earned $ 3000.0 bonus)
+Racing North Branch............
+Driver Olivia OO Johnson driving ElectricTrucks The Felon Electric_-492312269 secured position 4
+Driver Charlotte HH Brown driving ElectricTrucks Bulldozer Electric_228314303 secured position 6
+Driver Isabella BB Williams driving MonsterTrucks Sudden Impact_460525476 secured position 18
+Racing South Branch............
+
+ Ending North Branch ....
+
+
+
+ Ending South Branch ....
+
+
+

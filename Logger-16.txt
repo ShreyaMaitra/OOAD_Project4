@@ -1,0 +1,47 @@
+Simulation day 16:
+*** FNCD Day 16 Thursday *** 
+
+ Opening North Branch....
+Purchased Like New , Clean RegularCar for $11999.0 Cost
+Purchased Used , Dirty PerformanceCar for $21451.0 Cost
+Purchased Broken , Dirty PickUpCar for $39465.0 Cost
+
+ Opening South Branch....
+
+
+Intern Emma SS Johnson washed PerformanceCar Bentley_Sports_-1771708419 using Wash method Chemical and made it Dirty (earned $200)
+Intern Sophia LL Jones washed MonsterTrucks Bear Foot USA_976757668 using Wash method Chemical and made it Clean (earned $115)
+Intern Sophia KK Brown washed PerformanceCar Tesla_Sports_1087896913 using Wash method Detailed and made it Dirty (earned $200)
+
+
+Intern Emma SS Johnson washed ElectricTrucks Bulldozer Electric_228314303 using Wash method Chemical and made it Clean (earned $115)
+Intern Sophia LL Jones washed MonsterTrucks Sudden Impact_460525476 using Wash method Chemical and made it Sparkling (earned $115)
+Intern Sophia KK Brown washed RegularCar i10_Sports_1164065337 using Wash method Detailed and made it Clean (earned $100)
+
+
+Mechanic Evelyn LL Jones repaired Broken Bulldozer Electric_228314303 and made it Like New (earned $305.0)
+Mechanic Olivia AA Brown repaired Broken Bear Foot USA_976757668 and made it Like New (earned $305.0)
+
+
+Mechanic Evelyn LL Jones repaired Broken i20_XS_-1503354739 and made it Like New (earned $250.0)
+Mechanic Ava UU Wilson repaired Broken Tesla_Sports_1087896913 and made it Like New (earned $250.0)
+Mechanic Olivia AA Brown repaired Broken RAM_EXL_1175901394 and made it Used (earned $325.0)
+
+
+Salesperson Mia LL Davis sold Like New RegularCar i10_Sports_1164065337 to Buyer with Addon: None (Price Increased by $0.0) for $38860.0 (earned $ 1000.0 bonus)
+
+
+Salesperson Mia LL Davis sold Like New PickUpCar Porsche_Racer_-396805175 to Buyer with Addon: Extended Warranty (Price Increased by $13640.800000000001) for $81844.8 (earned $ 2000.0 bonus)
+Salesperson Charlotte GG Jones sold Like New PerformanceCar i20_XS_-1503354739 to Buyer with Addon: None (Price Increased by $0.0) for $94062.5 (earned $ 3000.0 bonus)
+
+ Ending North Branch ....
+Intern Emma SS Johnson has quit the FNCD
+
+
+
+ Ending South Branch ....
+Mechanic Ava UU Wilson has quit the FNCD
+
+
+Sophia LL Jones has shifted to the position of a Mechanic
+

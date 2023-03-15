@@ -39,7 +39,7 @@ Below is the output when the user wants to see the list of the cars to buy from:
 
 ![s5](https://user-images.githubusercontent.com/111729856/225433959-50fa53f7-8a6b-4337-9932-9cab631df3fd.png)
 
-Below is the output with the car details which the user chooses:
+Below is the output with the car details which the user chooses which is 5 in this case:
 
 ![s6png](https://user-images.githubusercontent.com/111729856/225433987-67a8fb6d-5f84-4cf5-be23-aba75f628111.png)
 

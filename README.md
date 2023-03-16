@@ -22,8 +22,8 @@ Also we are considering that the inventory has 10 Vehicles of each type.The stor
 
 # Test Cases :
 
-The tescases are written in SimulationTestCases.java using junit libraries.
-1.testInitializecarInventory() : To check if the initial vehicle inventory is created 
+The tescases are written in SimulationTestCases.java using junit libraries.\
+1.testInitializecarInventory() : To check if the initial vehicle inventory is created \
 2.testInitializeStaffInventory() : To check if the initial staff inventory is created 
 3.testCheckStaffsize() : To check staff size of the store
 4.testCreateStoreVehicleList(): To check if the initial vehicle store inventory is created 

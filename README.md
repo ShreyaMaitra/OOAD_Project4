@@ -23,21 +23,21 @@ Also we are considering that the inventory has 10 Vehicles of each type.The stor
 # Test Cases :
 
 The tescases are written in SimulationTestCases.java using junit libraries.\
-1.testInitializecarInventory() : To check if the initial vehicle inventory is created \
-2.testInitializeStaffInventory() : To check if the initial staff inventory is created 
-3.testCheckStaffsize() : To check staff size of the store
-4.testCreateStoreVehicleList(): To check if the initial vehicle store inventory is created 
-5.testCheckStoreVehiclesize() : To check staff size of the store
-6.testupdateVehicleAndStaffDetails() : To update vehicle sold by salesperson to user interface buyer and update salesperson bonus details 
-7.testhireIntern(): To check new interns are added as per requirement
-8.testcheckOperatingBudgetForNegativeScenario() : To check if operating budget goes below 0, amount $250000 it added to it.
-9.testcheckOperatingBudgetforPositiveScenario() : To check if operating budget is sufficient, amount it not added.
-10.testaddVehicle(): To check new vehicles are added as per required
-11.testupdateCarPrice() : To check if car price is increased for repaired vehicles
-12.testhireDriver() : To check drivers are added as per requirement
-13.testupdateStaffInv(): To check if the staff wh quit are updated in the staff inventory list
-14.testupdateVehicleInv() : To check that vehicle which are sold are updated in the vehicle inventory list
-15.testWashUpd(): To check if the cleanliness conditon is updated correctly
+1. testInitializecarInventory() : To check if the initial vehicle inventory is created \
+2. testInitializeStaffInventory() : To check if the initial staff inventory is created \
+3. testCheckStaffsize() : To check staff size of the store \
+4. testCreateStoreVehicleList(): To check if the initial vehicle store inventory is created \
+5. testCheckStoreVehiclesize() : To check staff size of the store \
+6. testupdateVehicleAndStaffDetails() : To update vehicle sold by salesperson to user interface buyer and update salesperson bonus details \
+7. testhireIntern(): To check new interns are added as per requirement \
+8. testcheckOperatingBudgetForNegativeScenario() : To check if operating budget goes below 0, amount $250000 it added to it \
+9. testcheckOperatingBudgetforPositiveScenario() : To check if operating budget is sufficient, amount it not added \
+10. testaddVehicle(): To check new vehicles are added as per required \
+11. testupdateCarPrice() : To check if car price is increased for repaired vehicles \
+12. testhireDriver() : To check drivers are added as per requirement \
+13. testupdateStaffInv(): To check if the staff wh quit are updated in the staff inventory list \
+14. testupdateVehicleInv() : To check that vehicle which are sold are updated in the vehicle inventory list \
+15. testWashUpd(): To check if the cleanliness conditon is updated correctly \
 
 
 # Output of userinterface for buying a car :

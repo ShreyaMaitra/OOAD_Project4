@@ -4,7 +4,7 @@
 
 <h2>Java Version :17.0.6</h2>
 
-<h2>Below is the updated UML daigram:</h2>
+<h2>Below is the updated UML diagram:</h2>
 
 ![Untitled Diagram-Page-1 drawio (3)](https://user-images.githubusercontent.com/111729856/225429424-d0b41c90-f2a4-47db-adce-9a1c6b219492.png)
 
